@@ -1,0 +1,14 @@
+button,class
+taxes,category
+firearms,category
+education,category
+drug use,category
+death penalty,category
+environment,category
+proposition,racetype
+ballot measure,racetype
+election,racetype
+federal,area
+state,area
+regional,area
+local,area
