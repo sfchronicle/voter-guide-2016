@@ -26,6 +26,15 @@
 @line-height: 1.48;
 @black: #333;
 
+// @a-btn: #fdedec; @c-btn: lighten(lightgreen,10%); @r-btn: powderblue; @a-hover: darkred; @c-hover: green; @r-hover: #34495E;
+
+@a-btn: #fdedec;
+@a-hover: #DB504A;
+@r-btn: #F7F9F9;
+@r-hover: #8F9391;
+@c-btn: #D8DCFF;
+@c-hover: #4357AD;
+
 body {
   background-color: @white;
   font-size: @base-font;
@@ -621,12 +630,12 @@ button {
 }
 
 .area {
-  background-color: #fdedec;
-  border: 0 solid darkred;
-  color: darkred;
+  background-color: @a-btn;
+  border: 0 solid @a-hover;
+  color: @a-hover;
 
   &.active {
-    background-color: darkred;
+    background-color: @a-hover;
     color: white;
     i {
       color: white;
@@ -639,32 +648,32 @@ button {
 }
 
 .area:hover {
-  background-color: darkred;
-  color: #fdedec;
+  background-color: @a-hover;
+  color: @a-btn;
   i {
-    color: #fdedec;
+    color: @a-btn;
   }
 
   &.disabled {
     opacity: 0.3;
-    background-color: #fdedec;
-    color: darkred;
+    background-color: @a-btn;
+    color: @a-hover;
     i {
-      color: darkred;
+      color: @a-hover;
     }
   }
 }
 
 .racetype {
-  background-color: powderblue;
-  border: 0 solid #34495E;
-  color: #34495E;
+  background-color: @r-btn;
+  border: 0 solid @r-hover;
+  color: @r-hover;
   i {
-    color: #34495E;
+    color: @r-hover;
   }
 
   &.active {
-    background-color: #34495E;
+    background-color: @r-hover;
     color: white;
     i {
       color: white;
@@ -677,32 +686,32 @@ button {
 }
 
 .racetype:hover {
-  background-color: #34495E;
-  color: powderblue;
+  background-color: @r-hover;
+  color: @r-btn;
   i {
-    color: powderblue;
+    color: @r-btn;
   }
 
   &.disabled {
     opacity: 0.3;
-    background-color: powderblue;
-    color: #34495E;
+    background-color: @r-btn;
+    color: @r-hover;
     i {
-      color: #34495E;
+      color: @r-hover;
     }
   }
 }
 
 .category {
-  background-color: lighten(lightgreen,10%);
-  border: 0 solid green;
-  color: green;
+  background-color: @c-btn;
+  border: 0 solid @c-hover;
+  color: @c-hover;
   i {
-    color: green;
+    color: @c-hover;
   }
 
   &.active {
-    background-color: green;
+    background-color: @c-hover;
     color: white;
     i {
       color: white;
@@ -715,18 +724,18 @@ button {
 }
 
 .category:hover {
-  background-color: green;
-  color: lighten(lightgreen,10%);
+  background-color: @c-hover;
+  color: @c-btn;
   i {
-    color: lighten(lightgreen,10%);
+    color: @c-btn;
   }
 
   &.disabled {
     opacity: 0.3;
-    background-color: lighten(lightgreen,10%);
-    color: green;
+    background-color: @c-btn;
+    color: @c-hover;
     i {
-      color: green;
+      color: @c-hover;
     }
   }
 
@@ -866,17 +875,17 @@ h3 {
   }
 
   &.category:hover {
-    background-color: lighten(lightgreen,10%);
-    color: green;
+    background-color: @c-btn;
+    color: @c-hover;
   }
 
   &.racetype:hover {
-    background-color: powderblue;
-    color: #34495E;
+    background-color: @r-btn;
+    color: @r-hover;
   }
 
   &.area:hover {
-    background-color: #fdedec;
-    color: darkred;
+    background-color: @a-btn;
+    color: @a-hover;
   }
 }
