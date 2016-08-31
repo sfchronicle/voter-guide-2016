@@ -203,10 +203,30 @@ for (i = 0; i < raceData.length; i++ ) {
 			cstring += carray[q];
 		}
 	}
-	darea.insertAdjacentHTML("afterbegin","<div class='contain racebox' id='" + raceData[i].id + "' data-categories='" + cstring + "'></div>");
-	document.getElementById(raceData[i].id).insertAdjacentHTML("afterbegin",'<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + raceData[i].color + '">' + raceData[i].rmid + '</span> ' + raceData[i].rbtm + ' | <span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Read more >></a></span><div class="buttondisplay" id="' + raceData[i].id2 + '"></div></div>');
 
-	var buttonID = document.getElementById(raceData[i].id2);
+	// p + i and d + i are arbitrary ids
+
+	if (raceData[i].rmid != "No") {
+		var color = "green";
+		if (raceData[i].rmid == "Yes") {
+			var insertthistext = '<i class="fa fa-check" aria-hidden="true"></i> Yes';
+			var rbtm = "on";
+		}
+		else {
+			insertthistext = raceData[i].rmid;
+			rbtm = "for";
+		}
+	}
+	else {
+		color = "red";
+		insertthistext = '<i class="fa fa-times" aria-hidden="true"></i> No';
+		rbtm = "on";
+	}
+
+	darea.insertAdjacentHTML("afterbegin","<div class='contain racebox' id='p" + i + "' data-categories='" + cstring + "'></div>");
+	document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + rbtm + ' ' + raceData[i].race + ' | <span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Read more >></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');
+
+	var buttonID = document.getElementById("d" + i);
 	var addstr = "";
 
 	for (var a = 0, b = 0; ((a < raceData[i].tags.length) && (b <= raceData[i].tags.split(",").length));) {
