@@ -204,6 +204,13 @@ for (i = 0; i < raceData.length; i++ ) {
 		}
 	}
 
+	// if there is no endorsement url, don't print that one
+
+	if (raceData[i].endorsementurl == "#") {
+		continue;
+	}
+	else {}
+
 	// p + i and d + i are arbitrary ids
 
 	if (raceData[i].rmid != "No") {
