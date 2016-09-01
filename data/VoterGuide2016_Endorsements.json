@@ -1,0 +1,509 @@
+[
+  {
+    "race": "Oakland soda tax",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "regional",
+    "rtag": "ballot measure",
+    "tags": "regional,ballot measure"
+  },
+  {
+    "race": "Albany soda tax",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "regional",
+    "rtag": "ballot measure",
+    "tags": "regional,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. X",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. W",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. V",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. U",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. T",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. S",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. R",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. Q",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. P",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. O",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. N",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. M",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. L",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. K",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. J",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. I",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. H",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. G",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. F",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. E",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. D",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. C",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. B",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "tags": "local,ballot measure"
+  },
+  {
+    "race": "S.F. Prop. A",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-S-F-Prop-A-9189426.php",
+    "rmid": "Yes",
+    "atag": "local",
+    "rtag": "ballot measure",
+    "ctag": "taxes",
+    "tags": "local,ballot measure,taxes"
+  },
+  {
+    "race": "Prop. RR",
+    "description": "BART bond",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "regional",
+    "rtag": "proposition",
+    "tags": "regional,proposition"
+  },
+  {
+    "race": "Prop. 67",
+    "description": "Proposition 67 is a referendum on the law passed two years ago banning plastic shopping bags. That move is on hold due to the well-funded interest of a handful of bag makers.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-67-No-on-9187312.php",
+    "rmid": "Yes",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 66",
+    "description": "Proposition 66 proposes a highly complex, probably very expensive and constitutionally questionable scheme for streamlining the death penalty appeals process in hopes of shaving years off the timeline between conviction and execution.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Fight-crime-not-futility-Abolish-death-penalty-9185804.php",
+    "rmid": "No",
+    "atag": "state",
+    "rtag": "proposition",
+    "ctag": "death penalty",
+    "tags": "state,proposition,death penalty"
+  },
+  {
+    "race": "Prop. 65",
+    "description": "Proposition 65 would require proceeds from a 10-cent paper bag fee go toward environmental causes. Several environmental groups have shunned the proposition, which is being pushed largely by the plastic bag industry.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-67-No-on-9187312.php",
+    "rmid": "No",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 64",
+    "description": "marijuana legalization",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 63",
+    "description": "gun and ammunition control",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 62",
+    "description": "Proposition 62 offers a straightforward and certain solution to the death penalty debate: abolish and replace it with a punishment of life without the possibility of parole.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Fight-crime-not-futility-Abolish-death-penalty-9185804.php",
+    "rmid": "Yes",
+    "atag": "state",
+    "rtag": "proposition",
+    "ctag": "death penalty",
+    "tags": "state,proposition,death penalty"
+  },
+  {
+    "race": "Prop. 61",
+    "description": "prescription drug pricing",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 60",
+    "description": "condoms in adult films",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 59",
+    "description": "repeal citizens united",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 58",
+    "description": "bilingual education",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 57",
+    "description": "sentencing reform",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 56",
+    "description": "tobacco tax",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-56-9180531.php",
+    "rmid": "Yes",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 55",
+    "description": "tax extension",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 54",
+    "description": "legislature reform",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 53",
+    "description": "revenue bonds",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 52",
+    "description": "hospital fees",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "Prop. 51",
+    "description": "school bonds",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "proposition",
+    "tags": "state,proposition"
+  },
+  {
+    "race": "S.F. Superior Court Judge",
+    "description": "check if right endorsement",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/In-a-close-race-for-San-Francisco-Superior-Court-7391264.php",
+    "rmid": "Victor Hwang",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "S.F. Community College Board",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "S.F. Board of Education",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "S.F. Board of Supervisors District 11",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "S.F. Board of Supervisors District Nine",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "S.F. Board of Supervisors District Seven",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "S.F. Board of Supervisors District Five",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "S.F. Board of Supervisors District Three",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "S.F. Board of Supervisors District One",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "local",
+    "rtag": "election",
+    "tags": "local,election"
+  },
+  {
+    "race": "State Senate District 19",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "election",
+    "tags": "state,election"
+  },
+  {
+    "race": "State Senate District 17",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "state",
+    "rtag": "election",
+    "tags": "state,election"
+  },
+  {
+    "race": "State Senate District 11",
+    "description": "check if right endorsement",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Scott-Wiener-for-Senate-7396467.php?t=8b70c242eb",
+    "rmid": "Scott Weiner",
+    "atag": "state",
+    "rtag": "election",
+    "tags": "state,election"
+  },
+  {
+    "race": "U.S. House of Representatives (District 12)",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "federal",
+    "rtag": "election",
+    "tags": "federal,election"
+  },
+  {
+    "race": "U.S. Senate",
+    "description": "check if right endorsement",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-7760933.php?t=2511981e05",
+    "rmid": "Kamala Harris",
+    "atag": "federal",
+    "rtag": "election",
+    "tags": "federal,election"
+  },
+  {
+    "race": "U.S. President",
+    "description": "A long and contentious presidential primary season has revealed plenty about the policy command, temperament and discipline of the major-party nominees. The contrast could not be more profound. One candidate is fit for the presidency. The other is not.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Hillary-Clinton-for-9123797.php",
+    "rmid": "Hillary Clinton",
+    "atag": "federal",
+    "rtag": "election",
+    "tags": "federal,election"
+  }
+]
