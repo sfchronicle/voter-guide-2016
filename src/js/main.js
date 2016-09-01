@@ -18,6 +18,7 @@ var string = "";
 var disabled = document.getElementsByClassName('disabled');
 
 // adds in all the buttons
+
 for (var i = 0; i < buttonData.length; i++) {
 	cat.insertAdjacentHTML("afterbegin",'<button class="' + buttonData[i].class + ' button" id="' + buttonData[i].button + '">' + buttonData[i].button + '</button>');
 }
