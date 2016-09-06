@@ -1,213 +1,246 @@
 [
   {
-    "race": "Oakland soda tax",
+    "race": "Oakland Measure HH",
+    "description": "Oakland soda tax",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Bay-Area-voters-should-approve-soda-taxes-9202429.php",
+    "rmid": "Yes",
     "atag": "regional",
-    "rtag": "ballot measure",
-    "tags": "regional,ballot measure"
+    "rtag": "proposition",
+    "tags": "regional,proposition"
   },
   {
-    "race": "Albany soda tax",
+    "race": "Albany Measure 01",
+    "description": "Albany soda tax",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Bay-Area-voters-should-approve-soda-taxes-9202429.php",
+    "rmid": "Yes",
     "atag": "regional",
-    "rtag": "ballot measure",
-    "tags": "regional,ballot measure"
+    "rtag": "proposition",
+    "tags": "regional,proposition"
   },
   {
     "race": "S.F. Prop. X",
+    "description": "preserving space for arts & small businesses",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. W",
+    "description": "real estate transfer tax on high-end homes",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. V",
+    "description": "soda tax",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Bay-Area-voters-should-approve-soda-taxes-9202429.php",
+    "rmid": "Yes",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. U",
+    "description": "affordable housing level for market-rate projects",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. T",
+    "description": "ban on lobbyist contributions/gifts",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. S",
+    "description": "allocation of hotel tax",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. R",
+    "description": "neighborhood crime unit",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. Q",
+    "description": "no tents on sidewalks",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. P",
+    "description": "competitive bidding for affordable housing",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. O",
+    "description": "office development at hunters point",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. N",
+    "description": "noncitizen voting in school board elections",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. M",
+    "description": "housing & development commission",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
+    "rmid": "No",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. L",
+    "description": "MTA appointments & budget",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
+    "rmid": "No",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. K",
+    "description": "general sales tax 3/4-cent",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. J",
+    "description": "homeless/transportation funding",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. I",
+    "description": "senior/disabled funding",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. H",
+    "description": "public advocate",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
+    "rmid": "No",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. G",
+    "description": "police oversight",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. F",
+    "description": "16-year-old vote",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. E",
+    "description": "street trees",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. D",
+    "description": "vacancy appointments",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
+    "rmid": "No",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. C",
+    "description": "affordable housing loans",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. B",
+    "description": "city college parcel tax",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
-    "rtag": "ballot measure",
-    "tags": "local,ballot measure"
+    "rtag": "proposition",
+    "tags": "local,proposition"
   },
   {
     "race": "S.F. Prop. A",
+    "description": "school bonds",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-S-F-Prop-A-9189426.php",
     "rmid": "Yes",
     "atag": "local",
-    "rtag": "ballot measure",
+    "rtag": "proposition",
     "ctag": "taxes",
-    "tags": "local,ballot measure,taxes"
+    "tags": "local,proposition,taxes"
   },
   {
     "race": "Prop. RR",
@@ -291,7 +324,8 @@
     "race": "Prop. 60",
     "description": "condoms in adult films",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-condom-requirement-for-porn-actors-doesn-t-9198804.php",
+    "rmid": "No",
     "atag": "state",
     "rtag": "proposition",
     "tags": "state,proposition"
@@ -346,7 +380,8 @@
     "race": "Prop. 54",
     "description": "legislature reform",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-state-Prop-54-9204028.php",
+    "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "tags": "state,proposition"
@@ -355,7 +390,8 @@
     "race": "Prop. 53",
     "description": "revenue bonds",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-one-man-crusade-isn-t-the-way-to-run-9193825.php",
+    "rmid": "No",
     "atag": "state",
     "rtag": "proposition",
     "tags": "state,proposition"

@@ -28,10 +28,6 @@
     "class": "racetype"
   },
   {
-    "button": "ballot measure",
-    "class": "racetype"
-  },
-  {
     "button": "election",
     "class": "racetype"
   },
