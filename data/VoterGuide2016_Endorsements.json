@@ -114,7 +114,8 @@
     "race": "S.F. Prop. N",
     "description": "noncitizen voting in school board elections",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Voting-should-remain-a-privilege-for-adult-9206099.php",
+    "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "tags": "local,proposition"
@@ -142,7 +143,7 @@
   {
     "race": "S.F. Prop. K",
     "description": "general sales tax 3/4-cent",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Bay-Area-ballots-bulge-with-measures-to-pay-for-9202141.php",
     "endorsementurl": "#",
     "atag": "local",
     "rtag": "proposition",
@@ -151,7 +152,7 @@
   {
     "race": "S.F. Prop. J",
     "description": "homeless/transportation funding",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Bay-Area-ballots-bulge-with-measures-to-pay-for-9202141.php",
     "endorsementurl": "#",
     "atag": "local",
     "rtag": "proposition",
@@ -189,7 +190,8 @@
     "race": "S.F. Prop. F",
     "description": "16-year-old vote",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Voting-should-remain-a-privilege-for-adult-9206099.php",
+    "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "tags": "local,proposition"
@@ -225,7 +227,7 @@
   {
     "race": "S.F. Prop. B",
     "description": "city college parcel tax",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/education/article/CCSF-needs-Prop-B-parcel-tax-to-shore-up-faculty-9204117.php",
     "endorsementurl": "#",
     "atag": "local",
     "rtag": "proposition",
@@ -245,7 +247,7 @@
   {
     "race": "Prop. RR",
     "description": "BART bond",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Why-BART-s-future-now-hinges-on-3-5-billion-9198515.php",
     "endorsementurl": "#",
     "atag": "regional",
     "rtag": "proposition",
@@ -334,7 +336,8 @@
     "race": "Prop. 59",
     "description": "repeal citizens united",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-state-Prop-59-9206221.php",
+    "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "tags": "state,proposition"
@@ -408,7 +411,7 @@
   {
     "race": "Prop. 51",
     "description": "school bonds",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/education/article/Proposition-51-9-billion-for-school-9202918.php",
     "endorsementurl": "#",
     "atag": "state",
     "rtag": "proposition",

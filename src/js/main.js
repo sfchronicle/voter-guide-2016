@@ -65,7 +65,6 @@ var selected = function() {
 	if ((active.length == 1) && (al == 1)) {
 		for (var m = 0; m < raceData.length; m++ ) {
 
-			console.log('hello?');
 			// from the tags column, compile all the arrays that contain the clicked id
 			if (raceData[m].tags.includes(this.id)) {
 				matches.push(raceData[m].tags.split(','));
@@ -231,8 +230,15 @@ for (i = 0; i < raceData.length; i++ ) {
 		rbtm = "on";
 	}
 
+	if (raceData[i].coverageurl != "#") {
+		var coverage = ' | <span class="more"><a href="' + raceData[i].coverageurl + '" target="_blank">Related coverage <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></span>';
+	}
+	else {
+		var coverage = "";
+	}
+
 	darea.insertAdjacentHTML("afterbegin","<div class='contain racebox' id='p" + i + "' data-categories='" + cstring + "'></div>");
-	document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + rbtm + ' ' + raceData[i].race + ' | <span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Read more >></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');
+	document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + coverage + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + rbtm + ' ' + raceData[i].race + ' | <span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Our editorial <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');
 
 	var buttonID = document.getElementById("d" + i);
 	var addstr = "";
