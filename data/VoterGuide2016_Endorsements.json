@@ -63,7 +63,8 @@
     "endorsementurl": "#",
     "atag": "local",
     "rtag": "proposition",
-    "tags": "local,proposition"
+    "ctag": "electoral reform",
+    "tags": "local,proposition,electoral reform"
   },
   {
     "race": "S.F. Prop. S",
@@ -118,7 +119,8 @@
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
-    "tags": "local,proposition"
+    "ctag": "electoral reform",
+    "tags": "local,proposition,electoral reform"
   },
   {
     "race": "S.F. Prop. M",
@@ -194,7 +196,8 @@
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
-    "tags": "local,proposition"
+    "ctag": "electoral reform",
+    "tags": "local,proposition,electoral reform"
   },
   {
     "race": "S.F. Prop. E",
@@ -340,7 +343,8 @@
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
-    "tags": "state,proposition"
+    "ctag": "electoral reform",
+    "tags": "state,proposition,electoral reform"
   },
   {
     "race": "Prop. 58",
@@ -363,7 +367,7 @@
   {
     "race": "Prop. 56",
     "description": "tobacco tax",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Foes-of-tobacco-tax-hike-pour-millions-into-9206300.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-56-9180531.php",
     "rmid": "Yes",
     "atag": "state",
