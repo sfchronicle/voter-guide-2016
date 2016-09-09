@@ -66,7 +66,7 @@ var selected = function() {
 		for (var m = 0; m < raceData.length; m++ ) {
 
 			// from the tags column, compile all the arrays that contain the clicked id
-			if (raceData[m].tags.includes(this.id)) {
+			if (raceData[m].tags.indexOf(this.id) > -1) {
 				matches.push(raceData[m].tags.split(','));
 			}
 		}
@@ -81,13 +81,13 @@ var selected = function() {
 	// produce a string that displays all the elements in the array to match against
 	string = "";
 	for (var k = 0; k < merged.length; k++) {
-		if (string.includes(merged[k]) != true) {
+		if (string.indexOf(merged[k]) < 0) {
 			string += merged[k] + " ";
 		}
 	}
 
 	for (var k = 0; k < button.length; k++) {
-		if ((string.includes(button[k].id) != true) && (active.length > 0)) {
+		if ((string.indexOf(button[k].id) < 0) && (active.length > 0)) {
 			// button[k].disabled = true;
 			button[k].classList.add('disabled');
 		}
@@ -99,7 +99,7 @@ var selected = function() {
 
 	for (var r = 0, s = 0; ((r < rb.length) && (s <= display.length));) {
 		if (s < display.length) {
-			if (rb[r].getAttribute("data-categories").includes(display[s])) {
+			if (rb[r].getAttribute("data-categories").indexOf(display[s]) > -1) {
 				s++;
 
 				if (s == display.length) {
@@ -170,7 +170,7 @@ var testBoolean = function() {
 
 	for (var n = 0, o = 0; (n < raceData.length) && (o <= display.length);) {
 		if ((n < raceData.length) && (o < display.length)) {
-			if (raceData[n].tags.includes(display[o])) {
+			if (raceData[n].tags.indexOf(display[o]) > -1) {
 				o++;
 
 				if (o == display.length) {
@@ -179,7 +179,7 @@ var testBoolean = function() {
 					n++;
 				}
 			}
-			else if (raceData[n].tags.includes(display[o]) != true) {
+			else if (raceData[n].tags.indexOf(display[o]) < 0) {
 				n++;
 				o = 0;
 			}
