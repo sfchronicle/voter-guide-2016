@@ -647,23 +647,6 @@ button {
   }
 }
 
-.area:hover {
-  background-color: @a-hover;
-  color: @a-btn;
-  i {
-    color: @a-btn;
-  }
-
-  &.disabled {
-    opacity: 0.3;
-    background-color: @a-btn;
-    color: @a-hover;
-    i {
-      color: @a-hover;
-    }
-  }
-}
-
 .racetype {
   background-color: @r-btn;
   border: 0 solid @r-hover;
@@ -682,23 +665,6 @@ button {
 
   &.disabled {
     opacity: 0.3;
-  }
-}
-
-.racetype:hover {
-  background-color: @r-hover;
-  color: @r-btn;
-  i {
-    color: @r-btn;
-  }
-
-  &.disabled {
-    opacity: 0.3;
-    background-color: @r-btn;
-    color: @r-hover;
-    i {
-      color: @r-hover;
-    }
   }
 }
 
@@ -723,22 +689,58 @@ button {
   }
 }
 
-.category:hover {
-  background-color: @c-hover;
-  color: @c-btn;
-  i {
-    color: @c-btn;
-  }
+@media screen and (min-width: 769px) {
 
-  &.disabled {
-    opacity: 0.3;
-    background-color: @c-btn;
-    color: @c-hover;
+  .area:hover {
+    background-color: @a-hover;
+    color: @a-btn;
     i {
-      color: @c-hover;
+      color: @a-btn;
+    }
+
+    &.disabled {
+      opacity: 0.3;
+      background-color: @a-btn;
+      color: @a-hover;
+      i {
+        color: @a-hover;
+      }
     }
   }
 
+  .racetype:hover {
+    background-color: @r-hover;
+    color: @r-btn;
+    i {
+      color: @r-btn;
+    }
+
+    &.disabled {
+      opacity: 0.3;
+      background-color: @r-btn;
+      color: @r-hover;
+      i {
+        color: @r-hover;
+      }
+    }
+  }
+
+  .category:hover {
+    background-color: @c-hover;
+    color: @c-btn;
+    i {
+      color: @c-btn;
+    }
+
+    &.disabled {
+      opacity: 0.3;
+      background-color: @c-btn;
+      color: @c-hover;
+      i {
+        color: @c-hover;
+      }
+    }
+  }
 }
 
 .cat-background {
