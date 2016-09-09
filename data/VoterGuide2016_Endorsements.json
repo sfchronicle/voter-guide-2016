@@ -59,7 +59,7 @@
   {
     "race": "S.F. Prop. T",
     "description": "ban on lobbyist contributions/gifts",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/S-F-Proposition-T-bans-lobbyists-gifts-to-9208531.php",
     "endorsementurl": "#",
     "atag": "local",
     "rtag": "proposition",
@@ -378,7 +378,8 @@
     "race": "Prop. 55",
     "description": "tax extension",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-state-Prop-55-9211163.php",
+    "rmid": "No",
     "atag": "state",
     "rtag": "proposition",
     "tags": "state,proposition"
@@ -516,7 +517,7 @@
     "description": "check if right endorsement",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Scott-Wiener-for-Senate-7396467.php?t=8b70c242eb",
-    "rmid": "Scott Weiner",
+    "rmid": "Scott Wiener",
     "atag": "state",
     "rtag": "election",
     "tags": "state,election"
