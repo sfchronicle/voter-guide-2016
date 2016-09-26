@@ -319,6 +319,9 @@ footer {
   font-size: 18px;
   font-family: @body;
   cursor: pointer;
+  @media @mobile{
+  padding:6px 10px 0;
+  }
 
   &.active {
     background: @active-link;
@@ -342,17 +345,36 @@ footer {
     margin-right: 10px;
   }
 }
+
+.sfc-logo{
+  @media @mobile{
+    display:none;
+  }
+}
+
+.c-logo{
+  display:none;
+  @media @mobile{
+    display:block;
+  }
+}
+
 .logo-link {
   cursor: pointer;
   margin: 0 0 0 10px;
+  padding:5px 10px 0 0;
   img {
     opacity: 1;
     height: 20px;
+  }
+  @media @mobile {
+    padding:9px 0;
   }
 }
 
 .link, .logo-link {
   display: inline-block;
+  vertical-align: middle;
 }
 
 header {
@@ -945,4 +967,12 @@ h3 {
   #separate {
     width: 100%;
   }
+}
+
+
+.banner {
+  max-width:900px;
+  margin:auto;
+  padding:0 15px;
+  img{width:100%;}
 }
