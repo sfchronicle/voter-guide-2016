@@ -1,18 +1,10 @@
 {
-  "s3": {
-    "stage": {
-      "bucket": "",
-      "path": ""
-    },
-    "live": {
-      "bucket": "",
-      "path": ""
-    }
-  },
-  "title": "",
-  "description": "",
+  "title": "Voter Election Guide",
+  "description": "description",
+  "twitter_text":"TWEEEET",
+  "hashtag":"hashtag",
   "url": "",
-  "slug": "",
+  "slug": "voter-election-guide",
   "tags": [],
   "image": "http://www.sfchronicle.com/img/pages/article/opengraph_default.jpg",
   "sheets": ["1MhuJoJYbbrRKdmpB6iMd6dQ_WY_ohuUJ9iXpENdgDGw"],

@@ -1,4 +1,4 @@
-// require("./lib/social");
+require("./lib/social");
 require("component-responsive-frame/child");
 
 var active = document.getElementsByClassName('active');
