@@ -86,7 +86,7 @@ hr{
 }
 
 p {
-  max-width: 730px;
+  max-width: 700px;
   margin: auto;
   padding: 0 15px;
   margin-bottom: 1.5em;
@@ -380,7 +380,7 @@ footer {
 header {
   background: @white;
   overflow: visible;
-  opacity: 0.9;
+  opacity: 1;
   -webkit-box-shadow: 0 0 6px 0 @dark-gray;
   -moz-box-shadow: 0 0 6px 0 @dark-gray;
   box-shadow: 0 0 6px 0 @dark-gray;
@@ -591,11 +591,11 @@ header {
 
 #title {
   font-size: 60px;
-  font-family: AntennaBlack;
   width: 100%;
+  font-family:@df-sans;
   text-align: center;
   line-height: 70px;
-  margin-top: 30px;
+  margin-top: 0;
   margin-bottom: 10px;
 
   @media @mobile {
@@ -609,6 +609,7 @@ header {
 }
 
 button {
+  text-transform: capitalize;
   font-size: 18px;
   padding: 5px 10px;
   width: 200px;
@@ -625,6 +626,10 @@ button {
   transition: opacity 0.8s ease;
   cursor: pointer;
   cursor: hand;
+
+  &:focus{
+    outline:none;
+  }
 }
 
 .disabled {
@@ -773,7 +778,8 @@ button {
 }
 
 #categories {
-  width: 80%;
+  width: 100%;
+  max-width:990px;
   margin: 0 auto;
   text-align: center;
   padding: 20px 0;
@@ -788,7 +794,8 @@ h3 {
 }
 
 .container {
-  width: 70%;
+  width: 100%;
+  max-width:700px;
   margin: 0 auto;
 
   button {
@@ -809,14 +816,15 @@ h3 {
   width: 100%;
   clear: both;
   overflow: auto;
-  border: 1px solid #d3d3d3;
-  padding: 20px;
+  border-bottom: 1px solid #d3d3d3;
+  padding: 1em 0 2em;
   margin: 20px 0;
 
   @media @mobile {
-    padding: 10px;
+    padding: 1em 1em 2em;
     border-left: none;
     border-right: none;
+    border-top:none;
   }
 }
 
@@ -971,8 +979,8 @@ h3 {
 
 
 .banner {
-  max-width:900px;
-  margin:auto;
+  max-width:500px;
+  margin:3em auto 0;
   padding:0 15px;
   img{width:100%;}
 }

@@ -1,5 +1,4 @@
 require("./lib/social");
-require("component-responsive-frame/child");
 
 var active = document.getElementsByClassName('active');
 var rb = document.getElementsByClassName('racebox');
@@ -123,40 +122,6 @@ var selected = function() {
 			break;
 		}
 	}
-
-	// if (this.classList.contains('racetype')) {
-	// 	var a = document.getElementsByClassName('racetype');
-	// 	for (i = 0; i < a.length; i++ ) {
-	// 		if (this.classList.contains('active')) {
-	// 			a[i].disabled = true;
-	// 			a[i].classList.add('disabled');
-	// 			this.disabled = false;
-	// 			this.classList.remove('disabled');
-	// 		}
-	// 		else {
-	// 			a[i].disabled = false;
-	// 			a[i].classList.remove('disabled');
-	// 		}
-	// 	}
-	// }
-	// else if (this.classList.contains('area')) {
-	// 	var a = document.getElementsByClassName('area');
-	// 	for (i = 0; i < a.length; i++ ) {
-	// 		if (this.classList.contains('active')) {
-	// 			a[i].disabled = true;
-	// 			a[i].classList.add('disabled');
-	// 			this.disabled = false;
-	// 			this.classList.remove('disabled');
-	// 		}
-	// 		else {
-	// 			a[i].disabled = false;
-	// 			a[i].classList.remove('disabled');
-	// 		}
-	// 	}
-	// }
-	// else {
-
-	// }
 }
 
 // function testing if the boolean is actually included
