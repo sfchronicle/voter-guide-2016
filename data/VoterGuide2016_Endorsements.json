@@ -22,8 +22,18 @@
     "tags": "regional,proposition,soda tax"
   },
   {
+    "race": "Berkeley Measure T1",
+    "description": "Berkeley infrastructure bond ",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Berkeley-Measure-T1-9698699.php",
+    "rmid": "Yes",
+    "atag": "regional",
+    "rtag": "proposition",
+    "ctag": "infrastructure bond",
+    "tags": "regional,proposition, infrastructure bond"
+  },
+  {
     "race": "Santa Clara Measure B",
-    "description": "transit tax",
+    "description": "Transit tax",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Santa-Clara-Measure-B-9216315.php",
     "rmid": "Yes",
     "atag": "regional",
@@ -33,7 +43,7 @@
   },
   {
     "race": "S.F. Prop. X",
-    "description": "preserving space for arts & small businesses",
+    "description": "Preserving space for arts & small businesses",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
@@ -43,7 +53,7 @@
   },
   {
     "race": "S.F. Prop. W",
-    "description": "real estate transfer tax on high-end homes",
+    "description": "Real estate transfer tax on high-end homes",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
@@ -52,7 +62,7 @@
   },
   {
     "race": "S.F. Prop. V",
-    "description": "soda tax",
+    "description": "Soda tax",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Bay-Area-voters-should-approve-soda-taxes-9202429.php",
     "rmid": "Yes",
@@ -63,7 +73,7 @@
   },
   {
     "race": "S.F. Prop. U",
-    "description": "affordable housing level for market-rate projects",
+    "description": "Affordable housing level for market-rate projects",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-S-F-Props-P-U-9517865.php",
     "rmid": "No",
@@ -74,17 +84,18 @@
   },
   {
     "race": "S.F. Prop. T",
-    "description": "ban on lobbyist contributions/gifts",
+    "description": "Ban on lobbyist contributions/gifts",
     "coverageurl": "http://www.sfchronicle.com/politics/article/S-F-Proposition-T-bans-lobbyists-gifts-to-9208531.php",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-SF-Proposition-T-9698673.php",
+    "rmid": "Yes",
     "atag": "local",
     "rtag": "proposition",
-    "ctag": "electoral reform",
-    "tags": "local,proposition,electoral reform"
+    "ctag": "lobbying reform",
+    "tags": "local,proposition,lobbying reform"
   },
   {
     "race": "S.F. Prop. S",
-    "description": "allocation of hotel tax",
+    "description": "Allocation of hotel tax",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
@@ -104,7 +115,7 @@
   },
   {
     "race": "S.F. Prop. Q",
-    "description": "no tents on sidewalks",
+    "description": "No tents on sidewalks",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
@@ -115,7 +126,7 @@
   },
   {
     "race": "S.F. Prop. P",
-    "description": "competitive bidding for affordable housing",
+    "description": "Competitive bidding for affordable housing",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-S-F-Props-P-U-9517865.php",
     "rmid": "No",
@@ -126,7 +137,7 @@
   },
   {
     "race": "S.F. Prop. O",
-    "description": "office development at hunters point",
+    "description": "Office development at hunters point",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
@@ -136,7 +147,7 @@
   },
   {
     "race": "S.F. Prop. N",
-    "description": "noncitizen voting in school board elections",
+    "description": "Noncitizen voting in school board elections",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Voting-should-remain-a-privilege-for-adult-9206099.php",
     "rmid": "No",
@@ -147,7 +158,7 @@
   },
   {
     "race": "S.F. Prop. M",
-    "description": "housing & development commission",
+    "description": "Housing & development commission",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
@@ -169,7 +180,7 @@
   },
   {
     "race": "S.F. Prop. K",
-    "description": "general sales tax 3/4-cent",
+    "description": "General sales tax 3/4-cent",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Bay-Area-ballots-bulge-with-measures-to-pay-for-9202141.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Pass-SF-Props-J-and-K-to-ease-homelessness-9240625.php",
     "rmid": "Yes",
@@ -180,7 +191,7 @@
   },
   {
     "race": "S.F. Prop. J",
-    "description": "homeless/transportation funding",
+    "description": "Homeless/transportation funding",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Bay-Area-ballots-bulge-with-measures-to-pay-for-9202141.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Pass-SF-Props-J-and-K-to-ease-homelessness-9240625.php",
     "rmid": "Yes",
@@ -191,7 +202,7 @@
   },
   {
     "race": "S.F. Prop. I",
-    "description": "senior/disabled funding",
+    "description": "Senior/disabled funding",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
@@ -202,7 +213,7 @@
   },
   {
     "race": "S.F. Prop. H",
-    "description": "public advocate",
+    "description": "Public advocate",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
@@ -213,7 +224,7 @@
   },
   {
     "race": "S.F. Prop. G",
-    "description": "police oversight",
+    "description": "Police oversight",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
@@ -234,7 +245,7 @@
   },
   {
     "race": "S.F. Prop. E",
-    "description": "street trees",
+    "description": "Street trees",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
@@ -245,7 +256,7 @@
   },
   {
     "race": "S.F. Prop. D",
-    "description": "vacancy appointments",
+    "description": "Vacancy appointments",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
@@ -256,7 +267,7 @@
   },
   {
     "race": "S.F. Prop. C",
-    "description": "affordable housing loans",
+    "description": "Affordable housing loans",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "local",
@@ -265,7 +276,7 @@
   },
   {
     "race": "S.F. Prop. B",
-    "description": "city college parcel tax",
+    "description": "City college parcel tax",
     "coverageurl": "http://www.sfchronicle.com/education/article/CCSF-needs-Prop-B-parcel-tax-to-shore-up-faculty-9204117.php",
     "endorsementurl": "#",
     "atag": "local",
@@ -275,7 +286,7 @@
   },
   {
     "race": "S.F. Prop. A",
-    "description": "school bonds",
+    "description": "School bonds",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-S-F-Prop-A-9189426.php",
     "rmid": "Yes",
@@ -303,7 +314,8 @@
     "atag": "state",
     "rtag": "proposition",
     "ctag": "plastic shopping bags",
-    "tags": "state,proposition,plastic shopping bags"
+    "tags": "state,proposition,plastic shopping bags",
+    "icon": "prop67"
   },
   {
     "race": "Prop. 66",
@@ -314,7 +326,8 @@
     "atag": "state",
     "rtag": "proposition",
     "ctag": "death penalty",
-    "tags": "state,proposition,death penalty"
+    "tags": "state,proposition,death penalty",
+    "icon": "prop66"
   },
   {
     "race": "Prop. 65",
@@ -325,29 +338,32 @@
     "atag": "state",
     "rtag": "proposition",
     "ctag": "plastic shopping bags",
-    "tags": "state,proposition,plastic shopping bags"
+    "tags": "state,proposition,plastic shopping bags",
+    "icon": "prop65"
   },
   {
     "race": "Prop. 64",
-    "description": "marijuana legalization",
+    "description": "Marijuana legalization",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Legalize-marijuana-Yes-on-9223733.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "marijuana legalization",
-    "tags": "state,proposition,marijuana legalization"
+    "tags": "state,proposition,marijuana legalization",
+    "icon": "prop64"
   },
   {
     "race": "Prop. 63",
-    "description": "gun and ammunition control",
+    "description": "Gun and ammunition control",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-63-9218383.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "gun control",
-    "tags": "state,proposition,gun control"
+    "tags": "state,proposition,gun control",
+    "icon": "prop63"
   },
   {
     "race": "Prop. 62",
@@ -358,132 +374,144 @@
     "atag": "state",
     "rtag": "proposition",
     "ctag": "death penalty",
-    "tags": "state,proposition,death penalty"
+    "tags": "state,proposition,death penalty",
+    "icon": "prop62"
   },
   {
     "race": "Prop. 61",
-    "description": "prescription drug pricing",
+    "description": "Prescription drug pricing",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-Proposition-61-9240125.php",
     "rmid": "No",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "prescription drugs",
-    "tags": "state,proposition,prescription drugs"
+    "tags": "state,proposition,prescription drugs",
+    "icon": "prop61"
   },
   {
     "race": "Prop. 60",
-    "description": "condoms in adult films",
+    "description": "Condoms in adult films",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-condom-requirement-for-porn-actors-doesn-t-9198804.php",
     "rmid": "No",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "health",
-    "tags": "state,proposition,health"
+    "tags": "state,proposition,health",
+    "icon": "prop60"
   },
   {
     "race": "Prop. 59",
-    "description": "repeal citizens united",
+    "description": "Repeal citizens united",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-state-Prop-59-9206221.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "electoral reform",
-    "tags": "state,proposition,electoral reform"
+    "tags": "state,proposition,electoral reform",
+    "icon": "prop59"
   },
   {
     "race": "Prop. 58",
-    "description": "bilingual education",
+    "description": "Bilingual education",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-58-9226162.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "bilingual education",
-    "tags": "state,proposition,bilingual education"
+    "tags": "state,proposition,bilingual education",
+    "icon": "prop58"
   },
   {
     "race": "Prop. 57",
-    "description": "sentencing reform",
+    "description": "Sentencing reform",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Yes-on-Prop-57-9215121.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "criminal justice reform",
-    "tags": "state,proposition,criminal justice reform"
+    "tags": "state,proposition,criminal justice reform",
+    "icon": "prop57"
   },
   {
     "race": "Prop. 56",
-    "description": "tobacco tax",
+    "description": "Tobacco tax",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Foes-of-tobacco-tax-hike-pour-millions-into-9206300.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-56-9180531.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "tobacco tax",
-    "tags": "state,proposition,tobacco tax"
+    "tags": "state,proposition,tobacco tax",
+    "icon": "prop56"
   },
   {
     "race": "Prop. 55",
-    "description": "tax extension",
+    "description": "Tax extension",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-state-Prop-55-9211163.php",
     "rmid": "No",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "taxes",
-    "tags": "state,proposition,taxes"
+    "tags": "state,proposition,taxes",
+    "icon": "prop55"
   },
   {
     "race": "Prop. 54",
-    "description": "legislature reform",
+    "description": "Legislature reform",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-state-Prop-54-9204028.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "legislative reform",
-    "tags": "state,proposition,legislative reform"
+    "tags": "state,proposition,legislative reform",
+    "icon": "prop54"
   },
   {
     "race": "Prop. 53",
-    "description": "revenue bonds",
+    "description": "Revenue bonds",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-one-man-crusade-isn-t-the-way-to-run-9193825.php",
     "rmid": "No",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "revenue bonds",
-    "tags": "state,proposition,revenue bonds"
+    "tags": "state,proposition,revenue bonds",
+    "icon": "prop53"
   },
   {
     "race": "Prop. 52",
-    "description": "hospital fees",
+    "description": "Hospital fees",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-52-9220821.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "hospital fees",
-    "tags": "state,proposition,hospital fees"
+    "tags": "state,proposition,hospital fees",
+    "icon": "prop52"
   },
   {
     "race": "Prop. 51",
-    "description": "school bonds",
+    "description": "School bonds",
     "coverageurl": "http://www.sfchronicle.com/education/article/Proposition-51-9-billion-for-school-9202918.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-51-9213832.php",
     "rmid": "Yes",
     "atag": "state",
     "rtag": "proposition",
     "ctag": "school bonds",
-    "tags": "state,proposition,school bonds"
+    "tags": "state,proposition,school bonds",
+    "icon": "prop51"
   },
   {
     "race": "S.F. Superior Court Judge",
-    "description": "FROM PRIMARY",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/In-a-close-race-for-San-Francisco-Superior-Court-7391264.php",
     "rmid": "Victor Hwang",
@@ -494,6 +522,7 @@
   },
   {
     "race": "S.F. Community College Board",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-fine-slate-of-candidates-for-City-College-Board-9238037.php",
     "rmid": "Mandelman, Bacharach, Randolph, Williams",
@@ -504,6 +533,7 @@
   },
   {
     "race": "S.F. Board of Education",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Four-for-the-S-F-Board-of-Education-9235481.php",
     "rmid": "Cook, Haney, Norton, Wynns",
@@ -514,6 +544,7 @@
   },
   {
     "race": "S.F. Board of Supervisors District 11",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Ahsha-Safa-for-SF-supervisor-in-District-11-9228319.php",
     "rmid": "Safa",
@@ -524,6 +555,7 @@
   },
   {
     "race": "S.F. Board of Supervisors District Nine",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Supervisor-race-9228306.php",
     "rmid": "Arce",
@@ -534,6 +566,7 @@
   },
   {
     "race": "S.F. Board of Supervisors District Seven",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Supervisor-Race-9228538.php",
     "rmid": "Engardio",
@@ -544,6 +577,7 @@
   },
   {
     "race": "S.F. Board of Supervisors District Five",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Supervisor-race-9228307.php",
     "rmid": "Breed",
@@ -554,6 +588,7 @@
   },
   {
     "race": "S.F. Board of Supervisors District Three",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Chronicle-recommends-Aaron-Peskin-for-SF-District-9228452.php",
     "rmid": "Peskin",
@@ -564,6 +599,7 @@
   },
   {
     "race": "S.F. Board of Supervisors District One",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Vote-for-Marjan-Philhour-for-SF-supervisor-in-9228535.php",
     "rmid": "Philhour",
@@ -574,6 +610,7 @@
   },
   {
     "race": "State Assembly District 16 ",
+    "description": "NEED DESCRIPTION",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Re-elect-Assemblywoman-9238027.php",
     "rmid": "Baker",
     "atag": "state",
@@ -583,6 +620,7 @@
   },
   {
     "race": "State Senate District 19",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "state",
@@ -592,6 +630,7 @@
   },
   {
     "race": "State Senate District 17",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "state",
@@ -601,7 +640,7 @@
   },
   {
     "race": "State Senate District 11",
-    "description": "FROM PRIMARY",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Scott-Wiener-for-Senate-7396467.php?t=8b70c242eb",
     "rmid": "Scott Wiener",
@@ -612,6 +651,7 @@
   },
   {
     "race": "U.S. House of Representatives (District 12)",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "federal",
@@ -621,7 +661,7 @@
   },
   {
     "race": "U.S. Senate",
-    "description": "FROM PRIMAR\"Y",
+    "description": "NEED DESCRIPTION",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-7760933.php?t=2511981e05",
     "rmid": "Kamala Harris",

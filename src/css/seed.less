@@ -813,12 +813,15 @@ h3 {
 }
 
 .contain {
+max-width:590px;
+
   width: 100%;
   clear: both;
   overflow: auto;
   border-bottom: 1px solid #d3d3d3;
   padding: 1em 0 2em;
-  margin: 20px 0;
+  margin: 20px auto;
+  text-align:center;
 
   @media @mobile {
     padding: 1em 1em 2em;
@@ -840,6 +843,8 @@ h3 {
 
 .endorsee {
   font-size: 21px;
+  max-width: 440px;
+  margin: auto;
 
   @media @tablet {
     font-size: 16px;
@@ -867,6 +872,12 @@ h3 {
 .vrace2 {
   margin-top: 0;
   font-size: 18px;
+  font-family: 'FarnhamText', Georgia, sans-serif;
+  font-weight: 100;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-width: 519px;
+  margin: 0 auto 1em;
 
   @media @tablet {
     font-size: 14px;
@@ -875,7 +886,7 @@ h3 {
 
 .more {
   font-size: 17px;
-  font-weight: normal;
+  font-family: AntennaExtraLight;
 
   @media @tablet {
     font-size: 14px;
@@ -896,7 +907,7 @@ h3 {
 .smallbutton {
   font-size: 14px;
   padding: 1px 4px;
-  float: left;
+  display: inline-block;
   width: auto;
   margin-left: 0;
   margin-right: 5px;
@@ -983,4 +994,12 @@ h3 {
   margin:3em auto 0;
   padding:0 15px;
   img{width:100%;}
+}
+
+.img-logo{
+  max-width:100px;
+  margin:auto;
+  img{
+    width:100%;
+  }
 }
