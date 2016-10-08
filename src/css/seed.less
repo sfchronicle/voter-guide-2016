@@ -795,8 +795,14 @@ h3 {
 
 .container {
   width: 100%;
-  max-width:700px;
+  max-width:1000px;
   margin: 0 auto;
+  display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
 
   button {
     clear: both;
@@ -813,15 +819,24 @@ h3 {
 }
 
 .contain {
-max-width:590px;
 
+  max-width:590px;
+  flex:0 0 46%;
   width: 100%;
   clear: both;
   overflow: auto;
-  border-bottom: 1px solid #d3d3d3;
-  padding: 1em 0 2em;
-  margin: 20px auto;
+  border: 1px solid #d3d3d3;
+  padding: 1em;
+  margin: 1em;
   text-align:center;
+
+  &:first-child{
+    flex:0 0 100%;
+    margin: auto;
+    border: none;
+    border-bottom: 1px solid #d3d3d3;
+  }
+
 
   @media @mobile {
     padding: 1em 1em 2em;

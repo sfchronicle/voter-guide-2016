@@ -42,6 +42,15 @@
     "tags": "regional,proposition,transit tax"
   },
   {
+    "race": "Contra Costa Measure X",
+    "description": "Measure X calls for a half-cent sales tax increase that will run for 30 years and will be used for transportation improvements.",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Yes-on-Measure-X-in-Contra-Costa-County-9886244.php",
+    "rmid": "Yes",
+    "atag": "regional",
+    "rtag": "proposition",
+    "tags": "regional, proposition"
+  },
+  {
     "race": "S.F. Prop. X",
     "description": "It requires replacement space in new projects in the South of Market and Mission neighborhoods for small businesses and arts groups.",
     "coverageurl": "#",
@@ -297,9 +306,10 @@
   },
   {
     "race": "Prop. RR",
-    "description": "BART bond",
+    "description": "Measure RR is a $3.5 billion bond program to repair, replace and redesign BART’s infrastructure.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Why-BART-s-future-now-hinges-on-3-5-billion-9198515.php",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Yes-on-Measure-RR-The-Bay-Area-can-t-work-9943475.php",
+    "rmid": "Yes",
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "transit bond",

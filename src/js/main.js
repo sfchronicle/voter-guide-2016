@@ -202,10 +202,10 @@ for (i = 0; i < raceData.length; i++ ) {
 		var coverage = "";
 	}
 
-	darea.insertAdjacentHTML("afterbegin","<div class='contain racebox' id='p" + i + "' data-categories='" + cstring + "'></div>");
+	darea.insertAdjacentHTML("afterbegin","<div class='contain flex racebox' id='p" + i + "' data-categories='" + cstring + "'></div>");
 	
 	if (raceData[i].icon == null){
-		document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + coverage + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + rbtm + ' ' + raceData[i].race + '<br><span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Our editorial <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');}
+		document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + coverage + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + '<br><span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Our editorial <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');}
 	else {
 		document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<div class="img-logo"><img src="./assets/logos/' + raceData[i].icon + '.png"></div>' + '<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + coverage + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + rbtm + ' ' + raceData[i].race + '<br><span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Our editorial <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');
 	};
@@ -224,9 +224,6 @@ for (i = 0; i < raceData.length; i++ ) {
 				else {
 				}
 			}
-
-			var print = "<div class='smallbutton " + newclass + "'>" + raceData[i].tags.split(",")[b] + "</div>";
-			addstr += print;
 
 			b++;
 		}
