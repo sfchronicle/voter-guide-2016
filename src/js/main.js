@@ -238,14 +238,40 @@ for (i = 0; i < raceData.length; i++ ) {
 }
 
 
+$(function() {
+    var sticky = $('#categories');
+    var hieghtThreshold = $(".cat-background").offset().top;
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= hieghtThreshold ) {
+            sticky.addClass('sticky-nav');
+        } else {
+            sticky.removeClass('sticky-nav');
+        }
+    });
+})
+
 
 $('#federal').click(function(){
-    $('#p61').addClass("filtered");
+    $('#p62').addClass("filtered");
 });
 
 $('#viewall').click(function(){
-    $('#p61').removeClass("filtered");
+    $('#p62').removeClass("filtered");
     $('.contain').css( "display", "block");
     $('#viewall').removeClass('disabled');
-    return false;
+});
+
+
+$(document).ready(function() {
+  $(".button").on("click", function( e ) {
+
+    e.preventDefault();
+
+    $("body, html").animate({ 
+      scrollTop: $('.container').offset().top - 40
+    },0);
+
+  });
 });

@@ -652,7 +652,8 @@ button {
   margin: 8px 10px;
 
   @media @tablet {
-    margin: 4px 6px;
+    margin: 4px 2px;
+    font-size: 12px;
   }
 }
 
@@ -778,21 +779,22 @@ button {
 
 #categories {
   width: 100%;
-  max-width:990px;
   margin: 0 auto;
   text-align: center;
   padding: 20px 0;
-
-  @media @tablet {
-    width: 95%;
-  }
 }
 
 h3 {
   font-family: AntennaRegular;
 }
 
+.deck{
+  text-align:center;
+  max-width:770px;
+}
+
 .container {
+  padding-top:3em;
   width: 100%;
   max-width:1000px;
   margin: 0 auto;
@@ -814,12 +816,15 @@ h3 {
 
   @media @mobile {
     width: 100%;
+    padding-top:1em;
   }
 }
 
 .contain {
 
   max-width:590px;
+  -webkit-flex: 0 0 46%;
+  -ms-flex: 0 0 41%;
   flex:0 0 46%;
   width: 100%;
   clear: both;
@@ -831,25 +836,38 @@ h3 {
 
   &:first-child{
     flex:0 0 100%;
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
     margin: auto;
     border: none;
 
     @media @mobile {
     flex: 0 0 90%;
+    -webkit-flex: 0 0 90%;
+    -ms-flex: 0 0 90%;
+    margin-top:1em;
     }
   }
 
   @media @900 {
+    -webkit-flex: 0 0 45%;
+    -ms-flex: 0 0 39%;
     flex: 0 0 45%;
   }
   @media @tablet {
+    -webkit-flex: 0 0 44%;
+    -ms-flex: 0 0 38%;
     flex: 0 0 44%;
   }
   @media @666 {
+    -webkit-flex: 0 0 43%;
+    -ms-flex: 0 0 90%;
     flex: 0 0 43%;
   }
   @media @640 {
     flex: 0 0 90%;
+    -webkit-flex: 0 0 90%;
+    -ms-flex: 0 0 90%;
     border:none;
     border-bottom:1px solid #d3d3d3;
     margin: 1em auto;
@@ -866,9 +884,11 @@ h3 {
 
 .filtered{
     flex:0 0 100%;
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
     border: none;
     margin:auto;
-    border-bottom: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
   }
 
 .endorse {
@@ -989,6 +1009,8 @@ h3 {
   width: 60%;
   margin: 30px auto;
   overflow: hidden;
+  border-top:1px solid #d3d3d3;
+  padding-top:2.5em;
 
   @media screen and (max-width: 1066px) {
     width: 90%;
@@ -1000,7 +1022,7 @@ h3 {
 }
 
 .creditbox {
-  width: 30%;
+  width: 46%;
   float: left;
   margin-bottom: 20px;
   margin-left: calc(10%/6);
@@ -1023,10 +1045,9 @@ h3 {
   }
 }
 
-@media @tablet {
-  #separate {
-    width: 100%;
-  }
+
+#separate {
+  width: 100%;
 }
 
 
@@ -1043,4 +1064,13 @@ h3 {
   img{
     width:100%;
   }
+}
+
+.sticky-nav{
+  position: fixed;
+  background: #fdfdfd;
+  width: 100%;
+  top: 36px;
+  padding: 5px 0 !important;
+  z-index: 2;
 }

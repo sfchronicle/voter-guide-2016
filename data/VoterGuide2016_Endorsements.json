@@ -8,7 +8,8 @@
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "soda tax",
-    "tags": "regional,proposition,soda tax"
+    "tags": "regional,proposition,soda tax",
+    "icon": "measureHH"
   },
   {
     "race": "Albany Measure 01",
@@ -19,36 +20,142 @@
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "soda tax",
-    "tags": "regional,proposition,soda tax"
+    "tags": "regional,proposition,soda tax",
+    "icon": "measure01"
   },
   {
     "race": "Berkeley Measure T1",
     "description": "A  $100 million general obligation bond for Berkeley's infrastructure.",
+    "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Berkeley-Measure-T1-9698699.php",
     "rmid": "Yes",
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "infrastructure bond",
-    "tags": "regional,proposition, infrastructure bond"
+    "tags": "regional,proposition, infrastructure bond",
+    "icon": "measureT1"
   },
   {
     "race": "Santa Clara Measure B",
     "description": "A half-cent sales tax projected to raise more than $6 billion over the next 30 years for public transit.",
+    "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Santa-Clara-Measure-B-9216315.php",
     "rmid": "Yes",
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "transit tax",
-    "tags": "regional,proposition,transit tax"
+    "tags": "regional,proposition,transit tax",
+    "icon": "measureB"
   },
   {
     "race": "Contra Costa Measure X",
     "description": "Measure X calls for a half-cent sales tax increase that would run for 30 years and would be used for transportation improvements.",
+    "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Yes-on-Measure-X-in-Contra-Costa-County-9886244.php",
     "rmid": "Yes",
     "atag": "regional",
     "rtag": "proposition",
-    "tags": "regional, proposition"
+    "tags": "regional, proposition",
+    "icon": "measureX"
+  },
+  {
+    "race": "S.F. Superior Court Judge",
+    "description": "The three-way race for an open seat on San Francisco Superior Court has three impressive candidates.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/In-a-close-race-for-San-Francisco-Superior-Court-7391264.php",
+    "rmid": "Victor Hwang",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "judge",
+    "tags": "local,election,judge"
+  },
+  {
+    "race": "S.F. Community College Board",
+    "description": "San Francisco’s City College has spent the past several years climbing out of a deep hole, and the ascent’s not over yet.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-fine-slate-of-candidates-for-City-College-Board-9238037.php",
+    "rmid": "Rafael Mandelman, Amy Bacharach, Alex Randolph, Shanell Williams",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "City College of San Francisco",
+    "tags": "local,election,City College of San Francisco"
+  },
+  {
+    "race": "S.F. Board of Education",
+    "description": "San Francisco’s public schools face no end of challenges, but these incumbents are willing to work together on significant problems.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Four-for-the-S-F-Board-of-Education-9235481.php",
+    "rmid": "Stevon Cook, Matt Haney, Rachel Norton, Jill Wynns",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "school board",
+    "tags": "local,election,school board"
+  },
+  {
+    "race": "S.F. Board of Supervisors District 11",
+    "description": "This Outer Mission District has the city’s highest number of families and homeowners and a deep sense that City Hall neglects its working-class needs.",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/All-District-11-supe-candidates-say-neighborhoods-9456429.php",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Ahsha-Safa-for-SF-supervisor-in-District-11-9228319.php",
+    "rmid": "Ahsha Safaí",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "board of supervisors",
+    "tags": "local,election,board of supervisors"
+  },
+  {
+    "race": "S.F. Board of Supervisors District Nine",
+    "description": "The Mission District offers San Francisco’s deepest problems and most promising solutions. ",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Supervisor-race-9228306.php",
+    "rmid": "Joshua Arce",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "board of supervisors",
+    "tags": "local,election,board of supervisors"
+  },
+  {
+    "race": "S.F. Board of Supervisors District Seven",
+    "description": "This West of Twin Peaks district may not want change, but it’s coming. A third of the city’s new housing will be built there.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/4-challengers-face-off-with-incumbent-west-side-9648508.php",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Supervisor-Race-9228538.php",
+    "rmid": "Joel Engardio",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "board of supervisors",
+    "tags": "local,election,board of supervisors"
+  },
+  {
+    "race": "S.F. Board of Supervisors District Five",
+    "description": "There’s no sharper contrast between an incumbent and challenger than this district race taking in the Western Addition and Haight-Ashbury.",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/London-Breed-Dean-Preston-argue-personal-9283790.php",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Supervisor-race-9228307.php",
+    "rmid": "London Breed",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "board of supervisors",
+    "tags": "local,election,board of supervisors"
+  },
+  {
+    "race": "S.F. Board of Supervisors District Three",
+    "description": "Once an unabashed provocateur, Supervisor Aaron Peskin now is all about fiscal restraint, housing preservation and policy reform.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Peskin-runs-low-key-race-against-Donnelly-for-4-9283781.php",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Chronicle-recommends-Aaron-Peskin-for-SF-District-9228452.php",
+    "rmid": "Aaron Peskin",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "board of supervisors",
+    "tags": "local,election,board of supervisors"
+  },
+  {
+    "race": "S.F. Board of Supervisors District One",
+    "description": "The Richmond District race has the largest field and fewest angry voices.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Big-field-for-Richmond-District-supervisor-race-9958351.php",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Vote-for-Marjan-Philhour-for-SF-supervisor-in-9228535.php",
+    "rmid": "Marjan Philhour",
+    "atag": "local",
+    "rtag": "election",
+    "ctag": "board of supervisors",
+    "tags": "local,election,board of supervisors"
   },
   {
     "race": "S.F. Prop. X",
@@ -65,10 +172,12 @@
     "race": "S.F. Prop. W",
     "description": "Real estate transfer tax on high-end homes",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/S-F-transfer-tax-measure-informally-tied-to-City-9213833.php",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-S-F-Prop-W-9960987.php",
+    "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
-    "tags": "local,proposition",
+    "ctag": "transfer tax",
+    "tags": "local,proposition,transfer tax",
     "icon": "propW"
   },
   {
@@ -97,7 +206,7 @@
   },
   {
     "race": "S.F. Prop. T",
-    "description": "Proposition T proposes string of requirements to control lobbying activities.",
+    "description": "Proposes string of requirements to control lobbying activities.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/S-F-Proposition-T-bans-lobbyists-gifts-to-9208531.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-SF-Proposition-T-9698673.php",
     "rmid": "Yes",
@@ -250,7 +359,7 @@
   },
   {
     "race": "S.F. Prop. G",
-    "description": "Proposition G gives an existing outside review panel more independence and power in keeping tabs on police officer conduct.",
+    "description": "Gives an existing outside review panel more independence and power in keeping tabs on police officer conduct.",
     "coverageurl": "http://www.sfchronicle.com/crime/article/Prop-G-would-toughen-civilian-oversight-of-SF-9228848.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-S-F-Prop-G-9951654.php",
     "rmid": "Yes",
@@ -262,7 +371,7 @@
   },
   {
     "race": "S.F. Prop. F",
-    "description": "Proposition F would allow young San Franciscans to vote in local and school board elections starting at the age of 16.",
+    "description": "Would allow young San Franciscans to vote in local and school board elections starting at the age of 16.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Supervisors-OK-ballot-measure-to-lower-SF-voting-7458077.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Voting-should-remain-a-privilege-for-adult-9206099.php",
     "rmid": "No",
@@ -286,7 +395,7 @@
   },
   {
     "race": "S.F. Prop. D",
-    "description": "This measure would forbid someone appointed as an interim member of the Board of Supervisors from running for a full term.",
+    "description": "Would forbid someone appointed as an interim member of the Board of Supervisors from running for a full term.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-D-on-ballot-could-shape-politics-in-SF-9230613.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
@@ -298,7 +407,7 @@
   },
   {
     "race": "S.F. Prop. C",
-    "description": "Proposition C relabels a seismic safety bond package and directs it toward housing.",
+    "description": "Relabels a seismic safety bond package and directs it toward housing.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Props-A-C-would-build-repair-schools-add-9957045.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-SF-Prop-C-9951541.php",
     "rmid": "Yes",
@@ -321,7 +430,7 @@
   },
   {
     "race": "S.F. Prop. A",
-    "description": "Proposition A is a 20-year public school spending plan totaling $744 million that builds on three earlier bond measures stretching back a decade.",
+    "description": "A 20-year public school spending plan totaling $744 million that builds on three earlier bond measures stretching back a decade.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Props-A-C-would-build-repair-schools-add-9957045.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-S-F-Prop-A-9189426.php",
     "rmid": "Yes",
@@ -332,19 +441,20 @@
     "icon": "propA"
   },
   {
-    "race": "Prop. RR",
-    "description": "Measure RR is a $3.5 billion bond program to repair, replace and redesign BART’s infrastructure.",
+    "race": "Measure RR",
+    "description": "A $3.5 billion bond program to repair, replace and redesign BART’s infrastructure.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Why-BART-s-future-now-hinges-on-3-5-billion-9198515.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Yes-on-Measure-RR-The-Bay-Area-can-t-work-9943475.php",
     "rmid": "Yes",
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "transit bond",
-    "tags": "regional,proposition,transit bond"
+    "tags": "regional,proposition,transit bond",
+    "icon": "measureRR"
   },
   {
     "race": "Prop. 67",
-    "description": "Proposition 67 is a referendum on the law passed two years ago banning plastic shopping bags. That move is on hold due to the well-funded interest of a handful of bag makers.",
+    "description": "A referendum on the law passed two years ago banning plastic shopping bags. That move is on hold due to the well-funded interest of a handful of bag makers.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Plastics-industry-pushing-to-halt-bag-ban-momentum-9213882.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-67-No-on-9187312.php",
     "rmid": "Yes",
@@ -356,7 +466,7 @@
   },
   {
     "race": "Prop. 66",
-    "description": "Proposition 66 proposes a highly complex, probably very expensive and constitutionally questionable scheme for streamlining the death penalty appeals process in hopes of shaving years off the timeline between conviction and execution.",
+    "description": "Proposes a highly complex, probably very expensive and constitutionally questionable scheme for streamlining the death penalty appeals process in hopes of shaving years off the timeline between conviction and execution.",
     "coverageurl": "http://www.sfchronicle.com/news/article/Calif-s-death-penalty-to-face-voter-test-in-9220913.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Fight-crime-not-futility-Abolish-death-penalty-9185804.php",
     "rmid": "No",
@@ -368,7 +478,7 @@
   },
   {
     "race": "Prop. 65",
-    "description": "Proposition 65 would require proceeds from a 10-cent paper bag fee go toward environmental causes. Several environmental groups have shunned the proposition, which is being pushed largely by the plastic bag industry.",
+    "description": "Would require proceeds from a 10-cent paper bag fee go toward environmental causes. Several environmental groups have shunned the proposition, which is being pushed largely by the plastic bag industry.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Plastics-industry-pushing-to-halt-bag-ban-momentum-9213882.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-67-No-on-9187312.php",
     "rmid": "No",
@@ -392,7 +502,7 @@
   },
   {
     "race": "Prop. 63",
-    "description": "Proposition 63 would tighten a set of gun-control laws recently signed by Gov. Jerry Brown and enact others that state legislators have failed to pass.",
+    "description": "Would tighten a set of gun-control laws recently signed by Gov. Jerry Brown and enact others that state legislators have failed to pass.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/How-Gavin-Newsom-s-family-tragedy-led-to-9308473.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-63-9218383.php",
     "rmid": "Yes",
@@ -404,7 +514,7 @@
   },
   {
     "race": "Prop. 62",
-    "description": "Proposition 62 offers a straightforward and certain solution to the death penalty debate: abolish and replace it with a punishment of life without the possibility of parole.",
+    "description": "Offers a straightforward and certain solution to the death penalty debate: abolish and replace it with a punishment of life without the possibility of parole.",
     "coverageurl": "http://www.sfchronicle.com/news/article/Calif-s-death-penalty-to-face-voter-test-in-9220913.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Fight-crime-not-futility-Abolish-death-penalty-9185804.php",
     "rmid": "Yes",
@@ -428,7 +538,7 @@
   },
   {
     "race": "Prop. 60",
-    "description": "Measure would require porn actors to use condoms while at work.",
+    "description": "Would require porn actors to use condoms while at work.",
     "coverageurl": "http://www.sfchronicle.com/electionsredesign/article/Proposition-60-would-require-condoms-in-porn-9695930.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-condom-requirement-for-porn-actors-doesn-t-9198804.php",
     "rmid": "No",
@@ -440,7 +550,7 @@
   },
   {
     "race": "Prop. 59",
-    "description": "It calls on elected officials to use “all of their constitutional authority” to help overturn the U.S. Supreme Court’s 2010 Citizens United decision. ",
+    "description": "Calls on elected officials to use “all of their constitutional authority” to help overturn the U.S. Supreme Court’s 2010 Citizens United decision. ",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-59-would-put-Californians-on-record-against-9801850.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-state-Prop-59-9206221.php",
     "rmid": "Yes",
@@ -464,7 +574,7 @@
   },
   {
     "race": "Prop. 57",
-    "description": "The measure would encourage nonviolent offenders to use their prison time to improve themselves and also the decision of whether to try a juvenile as an adult in the hands of a judge.",
+    "description": "Would encourage nonviolent offenders to use their prison time to improve themselves and also the decision of whether to try a juvenile as an adult in the hands of a judge.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-57-partly-rolls-back-fixed-terms-for-9228141.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Yes-on-Prop-57-9215121.php",
     "rmid": "Yes",
@@ -476,7 +586,7 @@
   },
   {
     "race": "Prop. 56",
-    "description": "Proposition 56 would raise the tax on cigarettes by $2 a pack.",
+    "description": "Would raise the tax on cigarettes by $2 a pack.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Foes-of-tobacco-tax-hike-pour-millions-into-9206300.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-56-9180531.php",
     "rmid": "Yes",
@@ -500,7 +610,7 @@
   },
   {
     "race": "Prop. 54",
-    "description": "The initiative would require each bill to be in print and posted online for 72 hours before it could pass out of either house.",
+    "description": "Would require each bill to be in print and posted online for 72 hours before it could pass out of either house.",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-state-Prop-54-9204028.php",
     "rmid": "Yes",
@@ -512,7 +622,7 @@
   },
   {
     "race": "Prop. 53",
-    "description": "This measure calls for a state vote on any revenue bond measure larger than $2 billion.",
+    "description": "Calls for a state vote on any revenue bond measure larger than $2 billion.",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-one-man-crusade-isn-t-the-way-to-run-9193825.php",
     "rmid": "No",
@@ -547,107 +657,9 @@
     "icon": "prop51"
   },
   {
-    "race": "S.F. Superior Court Judge",
-    "description": "The three-way race for an open seat on San Francisco Superior Court has three impressive candidates.",
-    "coverageurl": "#",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/In-a-close-race-for-San-Francisco-Superior-Court-7391264.php",
-    "rmid": "Victor Hwang",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "judge",
-    "tags": "local,election,judge"
-  },
-  {
-    "race": "S.F. Community College Board",
-    "description": "San Francisco’s City College has spent the past several years climbing out of a deep hole, and the ascent’s not over yet.",
-    "coverageurl": "#",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-fine-slate-of-candidates-for-City-College-Board-9238037.php",
-    "rmid": "Rafael Mandelman, Amy Bacharach, Alex Randolph, Shanell Williams",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "City College of San Francisco",
-    "tags": "local,election,City College of San Francisco"
-  },
-  {
-    "race": "S.F. Board of Education",
-    "description": "San Francisco’s public schools face no end of challenges, but these incumbents are willing to work together on significant problems.",
-    "coverageurl": "#",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Four-for-the-S-F-Board-of-Education-9235481.php",
-    "rmid": "Stevon Cook, Matt Haney, Rachel Norton, Jill Wynns",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "school board",
-    "tags": "local,election,school board"
-  },
-  {
-    "race": "S.F. Board of Supervisors District 11",
-    "description": "This Outer Mission District has the city’s highest number of families and homeowners and a deep sense that City Hall neglects its working-class needs.",
-    "coverageurl": "http://www.sfchronicle.com/politics/article/All-District-11-supe-candidates-say-neighborhoods-9456429.php",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Ahsha-Safa-for-SF-supervisor-in-District-11-9228319.php",
-    "rmid": "Ahsha Safaí",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "board of supervisors",
-    "tags": "local,election,board of supervisors"
-  },
-  {
-    "race": "S.F. Board of Supervisors District Nine",
-    "description": "The Mission District offers San Francisco’s deepest problems and most promising solutions. ",
-    "coverageurl": "#",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Supervisor-race-9228306.php",
-    "rmid": "Joshua Arce",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "board of supervisors",
-    "tags": "local,election,board of supervisors"
-  },
-  {
-    "race": "S.F. Board of Supervisors District Seven",
-    "description": "This West of Twin Peaks district may not want change, but it’s coming. A third of the city’s new housing will be built there.",
-    "coverageurl": "http://www.sfchronicle.com/bayarea/article/4-challengers-face-off-with-incumbent-west-side-9648508.php",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Supervisor-Race-9228538.php",
-    "rmid": "Joel Engardio",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "board of supervisors",
-    "tags": "local,election,board of supervisors"
-  },
-  {
-    "race": "S.F. Board of Supervisors District Five",
-    "description": "There’s no sharper contrast between an incumbent and challenger than this district race taking in the Western Addition and Haight-Ashbury.",
-    "coverageurl": "http://www.sfchronicle.com/politics/article/London-Breed-Dean-Preston-argue-personal-9283790.php",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Supervisor-race-9228307.php",
-    "rmid": "London Breed",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "board of supervisors",
-    "tags": "local,election,board of supervisors"
-  },
-  {
-    "race": "S.F. Board of Supervisors District Three",
-    "description": "Once an unabashed provocateur, Supervisor Aaron Peskin now is all about fiscal restraint, housing preservation and policy reform.",
-    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Peskin-runs-low-key-race-against-Donnelly-for-4-9283781.php",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Chronicle-recommends-Aaron-Peskin-for-SF-District-9228452.php",
-    "rmid": "Aaron Peskin",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "board of supervisors",
-    "tags": "local,election,board of supervisors"
-  },
-  {
-    "race": "S.F. Board of Supervisors District One",
-    "description": "The Richmond District race has the largest field and fewest angry voices.",
-    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Big-field-for-Richmond-District-supervisor-race-9958351.php",
-    "endorsementurl": "http://www.sfchronicle.com/opinion/article/Vote-for-Marjan-Philhour-for-SF-supervisor-in-9228535.php",
-    "rmid": "Marjan Philhour",
-    "atag": "local",
-    "rtag": "election",
-    "ctag": "board of supervisors",
-    "tags": "local,election,board of supervisors"
-  },
-  {
     "race": "State Assembly District 16 ",
     "description": "The California Democratic Party seems to have concluded that it can’t defeat Assemblywoman Catharine Baker, R-San Ramon, on the merits.",
+    "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Re-elect-Assemblywoman-9238027.php",
     "rmid": "Catharine Baker",
     "atag": "state",
@@ -685,6 +697,16 @@
     "rtag": "election",
     "ctag": "state senate",
     "tags": "state,election,state senate"
+  },
+  {
+    "race": "U.S. House of Representatives (District 17)",
+    "description": "Incumbent Mike Honda is being challenged by fellow Democrat Ro Khanna. ",
+    "coverageurl": "#",
+    "endorsementurl": "#",
+    "atag": "federal",
+    "rtag": "election",
+    "ctag": "Congress",
+    "tags": "state,election,congress"
   },
   {
     "race": "U.S. House of Representatives (District 12)",

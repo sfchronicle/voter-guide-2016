@@ -1,12 +1,12 @@
 {
-  "title": "Voter Election Guide",
-  "description": "description",
+  "title": "Voter guide: Recommendations for the Nov. 8 election",
+  "description": "Election 2016: Read The Chronicle Editorial Board's endorsements for local, state and federal races to get informed before you fill out your ballot.",
   "twitter_text":"Voter guide: Read The Chronicle's recommendations for the Nov. 8 election.",
   "hashtag":"Election2016",
-  "url": "",
-  "slug": "voter-election-guide",
+  "url": "http://projects.sfchronicle.com/2016/voter-guide/",
+  "slug": "voter-guide",
   "tags": [],
-  "image": "http://www.sfchronicle.com/img/pages/article/opengraph_default.jpg",
+  "image": "assets/social.png",
   "sheets": ["1MhuJoJYbbrRKdmpB6iMd6dQ_WY_ohuUJ9iXpENdgDGw"],
   "production": false,
   "embedded": true
