@@ -10,7 +10,7 @@ var cat = document.getElementById('categories'); // where the buttons go
 var button = document.getElementsByClassName('button'); // array of all the buttons
 var display = []; // array of ids for active buttons
 var darea = document.getElementById('darea'); // where the diff races go
-var options = ["local","regional","state","federal","election","ballot measure","proposition","environment","death penalty","drug use","education","firearms","taxes"]; // potential button options
+var options = ["local","regional","state","federal","election","ballot measure","proposition","environment","death penalty","drug use","education","firearms"]; // potential button options
 var matches = []; // find out what possible buttons are left
 var newmatches = [];
 var string = "";
@@ -19,7 +19,7 @@ var disabled = document.getElementsByClassName('disabled');
 // adds in all the buttons
 
 for (var i = 0; i < buttonData.length; i++) {
-	cat.insertAdjacentHTML("afterbegin",'<button class="' + buttonData[i].class + ' button" id="' + buttonData[i].button + '">' + buttonData[i].button + '</button>');
+	cat.insertAdjacentHTML("afterbegin",'<button class="' + buttonData[i].class + ' button" id="' + buttonData[i].button + '">' + buttonData[i].display + '</button>');
 }
 
 // function that adds active class to buttons, updates the array of active ids
@@ -33,14 +33,14 @@ var selected = function() {
 	var al = active.length;
 
 	if (this.classList.contains('active')) {
-		this.classList.remove('active');
+		// this.classList.remove('active');
 
 		// if you unclick, it removes from array
-		for (var j = 0; j < display.length; j++ ) {
-			if (display[j].substring(0,this.id.length) == this.id) {
-				display.splice(j,1);
-			}
-		}
+		// for (var j = 0; j < display.length; j++ ) {
+		// 	if (display[j].substring(0,this.id.length) == this.id) {
+		// 		display.splice(j,1);
+		// 	}
+		// }
 	}
 	else if (this.classList.contains('disabled')) {
 		display = [];
@@ -206,6 +206,9 @@ for (i = 0; i < raceData.length; i++ ) {
 	
 	if (raceData[i].icon == null){
 		document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + coverage + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + '<br><span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Our editorial <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');}
+	else if (raceData[i].icon == 'clinton'){
+		document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + coverage + '</h4>'+ '<div class="endorse">The Chronicle recommends</div>' + '<div class="img-logo"><img src="./assets/logos/' + raceData[i].icon + '.png"></div>' + '<div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + '<br><span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Our editorial <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');}
+
 	else {
 		document.getElementById("p" + i).insertAdjacentHTML("afterbegin",'<div class="img-logo"><img src="./assets/logos/' + raceData[i].icon + '.png"></div>' + '<h3 class="vrace">' + raceData[i].race + '</h3><h4 class="vrace2">' + raceData[i].description + coverage + '</h4><div class="endorse">The Chronicle recommends</div><div class="endorsee"><span class="endorsement ' + color + '">' + insertthistext + '</span> ' + rbtm + ' ' + raceData[i].race + '<br><span class="more"><a href="' + raceData[i].endorsementurl + '" target="_blank">Our editorial <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></span><div class="buttondisplay" id="d' + i + '"></div></div>');
 	};
@@ -234,18 +237,15 @@ for (i = 0; i < raceData.length; i++ ) {
 	buttonID.insertAdjacentHTML("beforeend",addstr);
 }
 
-for (var z = 0; z < disabled.length; z++) {
-	disabled[z].addEventListener("click",function() {
-		for (var i = 0; i < button.length; i++) {
-			button[i].classList.remove('active');
-			button[i].classList.remove('disabled');
-			// button[i].disabled = false;
 
-			display = [];
 
-			for (var t = 0; t < rb.length; t++) {
-				rb[t].style.display = "block";
-			}
-		}
-	});
-}
+$('#federal').click(function(){
+    $('#p61').addClass("filtered");
+});
+
+$('#viewall').click(function(){
+    $('#p61').removeClass("filtered");
+    $('.contain').css( "display", "block");
+    $('#viewall').removeClass('disabled');
+    return false;
+});

@@ -615,6 +615,7 @@ button {
   width: 200px;
   font-family: AntennaRegular;
   border-radius: 4px;
+  cursor:pointer;
 
   @media @tablet {
     font-size: 14px;
@@ -625,7 +626,6 @@ button {
   opacity: 1;
   transition: opacity 0.8s ease;
   cursor: pointer;
-  cursor: hand;
 
   &:focus{
     outline:none;
@@ -634,7 +634,7 @@ button {
 
 .disabled {
   transition: opacity 0.6s ease;
-  cursor: default;
+  cursor: pointer;
 }
 
 .active {
@@ -744,8 +744,7 @@ button {
 
     &.disabled {
       opacity: 0.3;
-      background-color: @r-btn;
-      color: @r-hover;
+      color: #fff;
       i {
         color: @r-hover;
       }
@@ -834,9 +833,28 @@ h3 {
     flex:0 0 100%;
     margin: auto;
     border: none;
-    border-bottom: 1px solid #d3d3d3;
+
+    @media @mobile {
+    flex: 0 0 90%;
+    }
   }
 
+  @media @900 {
+    flex: 0 0 45%;
+  }
+  @media @tablet {
+    flex: 0 0 44%;
+  }
+  @media @666 {
+    flex: 0 0 43%;
+  }
+  @media @640 {
+    flex: 0 0 90%;
+    border:none;
+    border-bottom:1px solid #d3d3d3;
+    margin: 1em auto;
+    padding:0;
+  }
 
   @media @mobile {
     padding: 1em 1em 2em;
@@ -845,6 +863,13 @@ h3 {
     border-top:none;
   }
 }
+
+.filtered{
+    flex:0 0 100%;
+    border: none;
+    margin:auto;
+    border-bottom: 1px solid #d3d3d3;
+  }
 
 .endorse {
   text-transform: uppercase;
@@ -875,9 +900,10 @@ h3 {
 }
 
 .vrace {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0 auto;
   font-size: 25px;
+  width: 100%;
+  max-width: 330px;
 
   @media @tablet {
     font-size: 18px;

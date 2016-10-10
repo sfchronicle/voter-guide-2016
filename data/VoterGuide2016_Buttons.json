@@ -1,54 +1,27 @@
 [
   {
-    "button": "taxes",
-    "class": "category"
-  },
-  {
-    "button": "firearms",
-    "class": "category"
-  },
-  {
-    "button": "education",
-    "class": "category"
-  },
-  {
-    "button": "drug use",
-    "class": "category"
-  },
-  {
-    "button": "death penalty",
-    "class": "category"
-  },
-  {
-    "button": "electoral reform",
-    "class": "category"
-  },
-  {
-    "button": "environment",
-    "class": "category"
-  },
-  {
-    "button": "proposition",
-    "class": "racetype"
-  },
-  {
-    "button": "election",
-    "class": "racetype"
-  },
-  {
-    "button": "federal",
-    "class": "area"
-  },
-  {
-    "button": "state",
-    "class": "area"
-  },
-  {
-    "button": "regional",
-    "class": "area"
+    "button": "viewall",
+    "class": "area viewall",
+    "display": "View All"
   },
   {
     "button": "local",
-    "class": "area"
+    "class": "area",
+    "display": "SF"
+  },
+  {
+    "button": "regional",
+    "class": "area",
+    "display": "Bay Area"
+  },
+  {
+    "button": "state",
+    "class": "area",
+    "display": "State"
+  },
+  {
+    "button": "federal",
+    "class": "area",
+    "display": "Federal"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "race": "Oakland Measure HH",
     "description": "A penny an ounce tax on sugary drinks.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Big-Soda-s-tax-claim-falls-flat-with-grocers-9957316.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Bay-Area-voters-should-approve-soda-taxes-9202429.php",
     "rmid": "Yes",
     "atag": "regional",
@@ -13,7 +13,7 @@
   {
     "race": "Albany Measure 01",
     "description": "A penny an ounce tax on sugary drinks.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Big-Soda-s-tax-claim-falls-flat-with-grocers-9957316.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Bay-Area-voters-should-approve-soda-taxes-9202429.php",
     "rmid": "Yes",
     "atag": "regional",
@@ -33,7 +33,7 @@
   },
   {
     "race": "Santa Clara Measure B",
-    "description": "This half-cent sales tax is projected to raise more than $6 billion over the next 30 years for public transit.",
+    "description": "A half-cent sales tax projected to raise more than $6 billion over the next 30 years for public transit.",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Santa-Clara-Measure-B-9216315.php",
     "rmid": "Yes",
     "atag": "regional",
@@ -43,7 +43,7 @@
   },
   {
     "race": "Contra Costa Measure X",
-    "description": "Measure X calls for a half-cent sales tax increase that will run for 30 years and will be used for transportation improvements.",
+    "description": "Measure X calls for a half-cent sales tax increase that would run for 30 years and would be used for transportation improvements.",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Yes-on-Measure-X-in-Contra-Costa-County-9886244.php",
     "rmid": "Yes",
     "atag": "regional",
@@ -52,44 +52,48 @@
   },
   {
     "race": "S.F. Prop. X",
-    "description": "It requires replacement space in new projects in the South of Market and Mission neighborhoods for small businesses and arts groups.",
+    "description": "Would require replacement space in new projects in the South of Market and Mission neighborhoods for small businesses and arts groups.",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
-    "tags": "local,proposition"
+    "tags": "local,proposition",
+    "icon": "propX"
   },
   {
     "race": "S.F. Prop. W",
     "description": "Real estate transfer tax on high-end homes",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/S-F-transfer-tax-measure-informally-tied-to-City-9213833.php",
     "endorsementurl": "#",
     "atag": "local",
     "rtag": "proposition",
-    "tags": "local,proposition"
+    "tags": "local,proposition",
+    "icon": "propW"
   },
   {
     "race": "S.F. Prop. V",
-    "description": "Would place a one center per ounce tax on sugary drinks.",
-    "coverageurl": "#",
+    "description": "Would place a one-cent per ounce tax on sugary drinks.",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Big-Soda-s-tax-claim-falls-flat-with-grocers-9957316.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Bay-Area-voters-should-approve-soda-taxes-9202429.php",
     "rmid": "Yes",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "soda tax",
-    "tags": "local,proposition,soda tax"
+    "tags": "local,proposition,soda tax",
+    "icon": "propV"
   },
   {
     "race": "S.F. Prop. U",
-    "description": "Would change the amount of income that people could have an still qualify for subsidized housing.",
+    "description": "Would change the amount of income that people could have and still qualify for subsidized housing.",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-S-F-Props-P-U-9517865.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "housing",
-    "tags": "local,proposition,housing"
+    "tags": "local,proposition,housing",
+    "icon": "propU"
   },
   {
     "race": "S.F. Prop. T",
@@ -100,7 +104,8 @@
     "atag": "local",
     "rtag": "proposition",
     "ctag": "lobbying reform",
-    "tags": "local,proposition,lobbying reform"
+    "tags": "local,proposition,lobbying reform",
+    "icon": "propT"
   },
   {
     "race": "S.F. Prop. S",
@@ -109,200 +114,222 @@
     "endorsementurl": "#",
     "atag": "local",
     "rtag": "proposition",
-    "tags": "local,proposition"
+    "tags": "local,proposition",
+    "icon": "propS"
   },
   {
     "race": "S.F. Prop. R",
-    "description": "This measure directs that 3 percent of the police force — some 60 officers — be delegated to neighborhood crime, nothing else.",
-    "coverageurl": "#",
+    "description": "Would direct that 3 percent of the police force — some 60 officers — be delegated to neighborhood crime, nothing else.",
+    "coverageurl": "http://www.sfchronicle.com/crime/article/Prop-R-SF-anticrime-measure-faces-stiff-9228843.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "crime",
-    "tags": "local,proposition,crime"
+    "tags": "local,proposition,crime",
+    "icon": "propR"
   },
   {
     "race": "S.F. Prop. Q",
-    "description": "The measure takes aim at sidewalk tent campers by giving residents a 24 hour notice to leave and move to a shelter.",
+    "description": "Would take aim at sidewalk tent campers by giving residents a 24 hour notice to leave and move to a shelter.",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "homeless",
-    "tags": "local,proposition,homeless"
+    "tags": "local,proposition,homeless",
+    "icon": "propQ"
   },
   {
     "race": "S.F. Prop. P",
-    "description": "Prop. P obliges the city to seek three bids when offering city land to affordable housing builders. ",
+    "description": "Would oblige the city to seek three bids when offering city land to affordable housing builders. ",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-S-F-Props-P-U-9517865.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "housing ",
-    "tags": "local,proposition,housing "
+    "tags": "local,proposition,housing ",
+    "icon": "propP"
   },
   {
     "race": "S.F. Prop. O",
     "description": "Office development at hunters point",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Prop-O-would-exempt-Bayview-from-cap-on-new-9956532.php",
     "endorsementurl": "#",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "voting rights",
-    "tags": "local,proposition,voting rights"
+    "tags": "local,proposition,voting rights",
+    "icon": "propO"
   },
   {
     "race": "S.F. Prop. N",
-    "description": "Noncitizen voting in school board elections",
-    "coverageurl": "#",
+    "description": "Would allow noncitizens to vote in San Francisco school board elections.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/2-ballot-measures-could-expand-SF-voter-rolls-9223578.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Voting-should-remain-a-privilege-for-adult-9206099.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "electoral reform",
-    "tags": "local,proposition,electoral reform"
+    "tags": "local,proposition,electoral reform",
+    "icon": "propN"
   },
   {
     "race": "S.F. Prop. M",
-    "description": "Would allow noncitizens to vote in San Francisco school board elections.",
+    "description": "Would create a new panel to set the city's economic development course.",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "housing commission",
-    "tags": "local,proposition,housing commission"
+    "tags": "local,proposition,housing commission",
+    "icon": "propM"
   },
   {
     "race": "S.F. Prop. L",
-    "description": "It lets the supervisors name three of the seven members of the Municipal Transportation Agency instead of giving all of the picks to the mayor.",
-    "coverageurl": "#",
+    "description": "Would let the supervisors name three of the seven members of the Municipal Transportation Agency instead of giving all of the picks to the mayor.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Prop-L-would-give-SF-supervisors-more-control-9240619.php ",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "transit agency reform",
-    "tags": "local,proposition,transit agency reform"
+    "tags": "local,proposition,transit agency reform",
+    "icon": "propL"
   },
   {
     "race": "S.F. Prop. K",
-    "description": "Prop. K sets up a sales tax increase of 3/4 of a percent.",
+    "description": "Would set up a sales tax increase of 3/4 of a percent.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Bay-Area-ballots-bulge-with-measures-to-pay-for-9202141.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Pass-SF-Props-J-and-K-to-ease-homelessness-9240625.php",
     "rmid": "Yes",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "sales tax increase",
-    "tags": "local,proposition,sales tax increase"
+    "tags": "local,proposition,sales tax increase",
+    "icon": "propK"
   },
   {
     "race": "S.F. Prop. J",
-    "description": "Prop. J sets policy on how to divvy up a sales tax increase contained in Prop. K for homeless services and public transportation.",
+    "description": "Would set policy on how to divvy up a sales tax increase contained in Prop. K for homeless services and public transportation.",
     "coverageurl": "http://www.sfchronicle.com/bayarea/article/Bay-Area-ballots-bulge-with-measures-to-pay-for-9202141.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Pass-SF-Props-J-and-K-to-ease-homelessness-9240625.php",
     "rmid": "Yes",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "homeless, transit funds",
-    "tags": "local,proposition,homeless, transit funds"
+    "tags": "local,proposition,homeless, transit funds",
+    "icon": "propJ"
   },
   {
     "race": "S.F. Prop. I",
-    "description": "This measure reserves a $38 million portion of the budget for programs for seniors and disabled adults.",
-    "coverageurl": "#",
+    "description": "Would reserve a $38 million portion of the budget for programs for seniors and disabled adults.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Prop-I-seeks-to-help-SF-services-keep-pace-with-9242985.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": " seniors and disabled",
-    "tags": "local,proposition, seniors and disabled"
+    "tags": "local,proposition, seniors and disabled",
+    "icon": "propI"
   },
   {
     "race": "S.F. Prop. H",
-    "description": "It sets up an elected public advocate, with a staff of up to 26 and budget from $800,000 to $3.5 million per year, to survey any and all issues.",
+    "description": "Would set up an elected public advocate, with a staff of up to 26 and budget from $800,000 to $3.5 million per year, to survey any and all issues.",
     "coverageurl": "#",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "public advocate",
-    "tags": "local,proposition,public advocate"
+    "tags": "local,proposition,public advocate",
+    "icon": "propH"
   },
   {
     "race": "S.F. Prop. G",
-    "description": "Police oversight",
-    "coverageurl": "#",
-    "endorsementurl": "#",
+    "description": "Proposition G gives an existing outside review panel more independence and power in keeping tabs on police officer conduct.",
+    "coverageurl": "http://www.sfchronicle.com/crime/article/Prop-G-would-toughen-civilian-oversight-of-SF-9228848.php",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-S-F-Prop-G-9951654.php",
+    "rmid": "Yes",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "police oversight",
-    "tags": "local,proposition,police oversight"
+    "tags": "local,proposition,police oversight",
+    "icon": "propG"
   },
   {
     "race": "S.F. Prop. F",
     "description": "Proposition F would allow young San Franciscans to vote in local and school board elections starting at the age of 16.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Supervisors-OK-ballot-measure-to-lower-SF-voting-7458077.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Voting-should-remain-a-privilege-for-adult-9206099.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "electoral reform",
-    "tags": "local,proposition,electoral reform"
+    "tags": "local,proposition,electoral reform",
+    "icon": "propF"
   },
   {
     "race": "S.F. Prop. E",
-    "description": "Creates a permanent maintenance fund in the city budget to take care of street tree maintenance.",
-    "coverageurl": "#",
+    "description": "Would create a permanent maintenance fund in the city budget to take care of street tree maintenance.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Proposition-E-would-set-aside-19-million-for-SF-9885762.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Editorial-9213838.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "tree maintenance",
-    "tags": "local,proposition,tree maintenance"
+    "tags": "local,proposition,tree maintenance",
+    "icon": "propE"
   },
   {
     "race": "S.F. Prop. D",
     "description": "This measure would forbid someone appointed as an interim member of the Board of Supervisors from running for a full term.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-D-on-ballot-could-shape-politics-in-SF-9230613.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "vacancy appointments",
-    "tags": "local,proposition,vacancy appointments"
+    "tags": "local,proposition,vacancy appointments",
+    "icon": "propD"
   },
   {
     "race": "S.F. Prop. C",
-    "description": "Affordable housing loans",
-    "coverageurl": "#",
-    "endorsementurl": "#",
+    "description": "Proposition C relabels a seismic safety bond package and directs it toward housing.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Props-A-C-would-build-repair-schools-add-9957045.php",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-SF-Prop-C-9951541.php",
+    "rmid": "Yes",
     "atag": "local",
     "rtag": "proposition",
-    "tags": "local,proposition"
+    "tags": "local,proposition",
+    "icon": "propC"
   },
   {
     "race": "S.F. Prop. B",
-    "description": "City college parcel tax",
+    "description": "A parcel tax increase to help City College of San Francisco.",
     "coverageurl": "http://www.sfchronicle.com/education/article/CCSF-needs-Prop-B-parcel-tax-to-shore-up-faculty-9204117.php",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-S-F-Prop-B-9951368.php",
+    "rmid": "Yes",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "parcel tax",
-    "tags": "local,proposition,parcel tax"
+    "tags": "local,proposition,parcel tax",
+    "icon": "propB"
   },
   {
     "race": "S.F. Prop. A",
     "description": "Proposition A is a 20-year public school spending plan totaling $744 million that builds on three earlier bond measures stretching back a decade.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Props-A-C-would-build-repair-schools-add-9957045.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-S-F-Prop-A-9189426.php",
     "rmid": "Yes",
     "atag": "local",
     "rtag": "proposition",
     "ctag": "taxes",
-    "tags": "local,proposition,taxes"
+    "tags": "local,proposition,taxes",
+    "icon": "propA"
   },
   {
     "race": "Prop. RR",
@@ -318,7 +345,7 @@
   {
     "race": "Prop. 67",
     "description": "Proposition 67 is a referendum on the law passed two years ago banning plastic shopping bags. That move is on hold due to the well-funded interest of a handful of bag makers.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Plastics-industry-pushing-to-halt-bag-ban-momentum-9213882.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-67-No-on-9187312.php",
     "rmid": "Yes",
     "atag": "state",
@@ -330,7 +357,7 @@
   {
     "race": "Prop. 66",
     "description": "Proposition 66 proposes a highly complex, probably very expensive and constitutionally questionable scheme for streamlining the death penalty appeals process in hopes of shaving years off the timeline between conviction and execution.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/news/article/Calif-s-death-penalty-to-face-voter-test-in-9220913.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Fight-crime-not-futility-Abolish-death-penalty-9185804.php",
     "rmid": "No",
     "atag": "state",
@@ -342,7 +369,7 @@
   {
     "race": "Prop. 65",
     "description": "Proposition 65 would require proceeds from a 10-cent paper bag fee go toward environmental causes. Several environmental groups have shunned the proposition, which is being pushed largely by the plastic bag industry.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Plastics-industry-pushing-to-halt-bag-ban-momentum-9213882.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-67-No-on-9187312.php",
     "rmid": "No",
     "atag": "state",
@@ -353,8 +380,8 @@
   },
   {
     "race": "Prop. 64",
-    "description": "Initiative controls the cultivation and sale of marijuana in California.",
-    "coverageurl": "#",
+    "description": "Would control the cultivation and sale of marijuana in California.",
+    "coverageurl": "http://www.sfchronicle.com/pot-legalization/",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Legalize-marijuana-Yes-on-9223733.php",
     "rmid": "Yes",
     "atag": "state",
@@ -366,7 +393,7 @@
   {
     "race": "Prop. 63",
     "description": "Proposition 63 would tighten a set of gun-control laws recently signed by Gov. Jerry Brown and enact others that state legislators have failed to pass.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/How-Gavin-Newsom-s-family-tragedy-led-to-9308473.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-63-9218383.php",
     "rmid": "Yes",
     "atag": "state",
@@ -378,7 +405,7 @@
   {
     "race": "Prop. 62",
     "description": "Proposition 62 offers a straightforward and certain solution to the death penalty debate: abolish and replace it with a punishment of life without the possibility of parole.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/news/article/Calif-s-death-penalty-to-face-voter-test-in-9220913.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Fight-crime-not-futility-Abolish-death-penalty-9185804.php",
     "rmid": "Yes",
     "atag": "state",
@@ -389,8 +416,8 @@
   },
   {
     "race": "Prop. 61",
-    "description": "This measure prohibits state agencies from paying more for prescription drugs than prices negotiated by the U.S. Department of Veterans Affairs. ",
-    "coverageurl": "#",
+    "description": "Would prohibit state agencies from paying more for prescription drugs than prices negotiated by the U.S. Department of Veterans Affairs. ",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-61-to-cut-drug-costs-may-be-priciest-9243562.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-Proposition-61-9240125.php",
     "rmid": "No",
     "atag": "state",
@@ -402,7 +429,7 @@
   {
     "race": "Prop. 60",
     "description": "Measure would require porn actors to use condoms while at work.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/electionsredesign/article/Proposition-60-would-require-condoms-in-porn-9695930.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/A-condom-requirement-for-porn-actors-doesn-t-9198804.php",
     "rmid": "No",
     "atag": "state",
@@ -414,7 +441,7 @@
   {
     "race": "Prop. 59",
     "description": "It calls on elected officials to use “all of their constitutional authority” to help overturn the U.S. Supreme Court’s 2010 Citizens United decision. ",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-59-would-put-Californians-on-record-against-9801850.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-state-Prop-59-9206221.php",
     "rmid": "Yes",
     "atag": "state",
@@ -425,8 +452,8 @@
   },
   {
     "race": "Prop. 58",
-    "description": "It removes the bureaucratic barriers to allowing school districts to offer dual-language immersion programs for native and non-native English speakers.",
-    "coverageurl": "#",
+    "description": "Would remove the bureaucratic barriers to allowing school districts to offer dual-language immersion programs for native and non-native English speakers.",
+    "coverageurl": "http://www.sfchronicle.com/education/article/Phrasing-impacts-support-for-Prop-58-9306710.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-58-9226162.php",
     "rmid": "Yes",
     "atag": "state",
@@ -438,7 +465,7 @@
   {
     "race": "Prop. 57",
     "description": "The measure would encourage nonviolent offenders to use their prison time to improve themselves and also the decision of whether to try a juvenile as an adult in the hands of a judge.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-57-partly-rolls-back-fixed-terms-for-9228141.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Yes-on-Prop-57-9215121.php",
     "rmid": "Yes",
     "atag": "state",
@@ -461,8 +488,8 @@
   },
   {
     "race": "Prop. 55",
-    "description": "Proposition 55 extends a “temporary tax” approved in 2012 on upper incomes to 2030.",
-    "coverageurl": "#",
+    "description": "Would extend a “temporary tax” approved in 2012 on upper incomes to 2030.",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-55-asks-voters-to-extend-governor-s-9243068.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-state-Prop-55-9211163.php",
     "rmid": "No",
     "atag": "state",
@@ -497,8 +524,8 @@
   },
   {
     "race": "Prop. 52",
-    "description": "Makes permanent a fee that hospitals pay so the state can meet a matching requirement for federal health funds. ",
-    "coverageurl": "#",
+    "description": "Would make permanent a fee that hospitals pay so the state can meet a matching requirement for federal health funds. ",
+    "coverageurl": "http://www.sfchronicle.com/health/article/Prop-52-a-measure-to-fund-Medi-Cal-is-its-own-9213439.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-52-9220821.php",
     "rmid": "Yes",
     "atag": "state",
@@ -509,7 +536,7 @@
   },
   {
     "race": "Prop. 51",
-    "description": "Proposition 51 would provide $9 billion in bond money to renovate aging classrooms and build new teaching facilities for the state’s shifting population.",
+    "description": "Would provide $9 billion in bond money to renovate aging classrooms and build new teaching facilities for the state’s shifting population.",
     "coverageurl": "http://www.sfchronicle.com/education/article/Proposition-51-9-billion-for-school-9202918.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Prop-51-9213832.php",
     "rmid": "Yes",
@@ -555,7 +582,7 @@
   {
     "race": "S.F. Board of Supervisors District 11",
     "description": "This Outer Mission District has the city’s highest number of families and homeowners and a deep sense that City Hall neglects its working-class needs.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/All-District-11-supe-candidates-say-neighborhoods-9456429.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Ahsha-Safa-for-SF-supervisor-in-District-11-9228319.php",
     "rmid": "Ahsha Safaí",
     "atag": "local",
@@ -576,8 +603,8 @@
   },
   {
     "race": "S.F. Board of Supervisors District Seven",
-    "description": "This West of Twin Peaks district may not want change, but it’s coming. A third of the city’s new housing will be built there",
-    "coverageurl": "#",
+    "description": "This West of Twin Peaks district may not want change, but it’s coming. A third of the city’s new housing will be built there.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/4-challengers-face-off-with-incumbent-west-side-9648508.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Supervisor-Race-9228538.php",
     "rmid": "Joel Engardio",
     "atag": "local",
@@ -588,7 +615,7 @@
   {
     "race": "S.F. Board of Supervisors District Five",
     "description": "There’s no sharper contrast between an incumbent and challenger than this district race taking in the Western Addition and Haight-Ashbury.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/London-Breed-Dean-Preston-argue-personal-9283790.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Supervisor-race-9228307.php",
     "rmid": "London Breed",
     "atag": "local",
@@ -599,7 +626,7 @@
   {
     "race": "S.F. Board of Supervisors District Three",
     "description": "Once an unabashed provocateur, Supervisor Aaron Peskin now is all about fiscal restraint, housing preservation and policy reform.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Peskin-runs-low-key-race-against-Donnelly-for-4-9283781.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Chronicle-recommends-Aaron-Peskin-for-SF-District-9228452.php",
     "rmid": "Aaron Peskin",
     "atag": "local",
@@ -610,7 +637,7 @@
   {
     "race": "S.F. Board of Supervisors District One",
     "description": "The Richmond District race has the largest field and fewest angry voices.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Big-field-for-Richmond-District-supervisor-race-9958351.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/article/Vote-for-Marjan-Philhour-for-SF-supervisor-in-9228535.php",
     "rmid": "Marjan Philhour",
     "atag": "local",
@@ -629,7 +656,8 @@
     "tags": "state,election,assembly"
   },
   {
-    "race": "State Senate District 19",
+    "race": "State Assembly District 19",
+    "description": "Incumbent Democrat Phil Ting will face Republican Carlos Taylor",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "state",
@@ -638,7 +666,8 @@
     "tags": "state,election,state senate"
   },
   {
-    "race": "State Senate District 17",
+    "race": "State Assembly District 17",
+    "description": "Incumbent Democrat David Chiu faces Republican Matthew Del Carlo",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "state",
@@ -648,8 +677,8 @@
   },
   {
     "race": "State Senate District 11",
-    "description": "The Senate district, taking in all of the city and northern San Mateo County, demands a leader who can step in without an extended learning curve.",
-    "coverageurl": "#",
+    "description": "The Senate district, taking in all of the San Francisco and northern San Mateo County, demands a leader who can step in without an extended learning curve.",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/State-Senate-race-locked-in-furious-dead-heat-9537498.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Scott-Wiener-for-Senate-7396467.php?t=8b70c242eb",
     "rmid": "Scott Wiener",
     "atag": "state",
@@ -659,6 +688,7 @@
   },
   {
     "race": "U.S. House of Representatives (District 12)",
+    "description": "Incumbent Nancy Pelosi will face independent candidate Preston Picus.",
     "coverageurl": "#",
     "endorsementurl": "#",
     "atag": "federal",
@@ -668,8 +698,8 @@
   },
   {
     "race": "U.S. Senate",
-    "description": "This is first all-Democratic race for statewide office since California voters approved a system that allows the top two finishers to advance to the general election regardless of party affiliation.",
-    "coverageurl": "#",
+    "description": "This is the first all-Democratic race for statewide office since California voters approved a system that allows the top two finishers to advance to the general election regardless of party affiliation.",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Sanchez-Senate-race-against-Harris-faces-steep-9885677.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Kamala-Harris-for-U-S-9881309.php",
     "rmid": "Kamala Harris",
     "atag": "federal",
@@ -686,6 +716,7 @@
     "atag": "federal",
     "rtag": "election",
     "ctag": "president",
-    "tags": "federal,election,president"
+    "tags": "federal,election,president",
+    "icon": "clinton"
   }
 ]
