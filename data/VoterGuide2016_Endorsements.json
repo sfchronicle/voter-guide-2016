@@ -12,6 +12,18 @@
     "icon": "measureHH"
   },
   {
+    "race": "Oakland Measure KK",
+    "description": "Bond measure would pay for ifrastructure improvements, affordable housing.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Oakland-Measure-KK-9967738.php",
+    "rmid": "Yes",
+    "atag": "regional",
+    "rtag": "proposition",
+    "ctag": "infrastructure bond",
+    "tags": "regional,proposition, infrastructure bond",
+    "icon": "measureKK"
+  },
+  {
     "race": "Albany Measure 01",
     "description": "A penny an ounce tax on sugary drinks.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Big-Soda-s-tax-claim-falls-flat-with-grocers-9957316.php",
@@ -218,9 +230,10 @@
   },
   {
     "race": "S.F. Prop. S",
-    "description": "Allocation of hotel tax",
+    "description": "Allocation of hotel tax.",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-SF-Prop-S-9967725.php",
+    "rmid": "No",
     "atag": "local",
     "rtag": "proposition",
     "tags": "local,proposition",
