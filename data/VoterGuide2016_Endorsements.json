@@ -1,5 +1,60 @@
 [
   {
+    "race": "BART Board of Directors District 9 ",
+    "description": "This district is one of two in San Francisco and include most of the BART stations in the city.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Gwyneth-Borden-for-BART-9972247.php",
+    "rmid": "Gwyneth Borden",
+    "atag": "regional",
+    "rtag": "election",
+    "ctag": "bart board of directors",
+    "tags": "regional,election,bart board of directors"
+  },
+  {
+    "race": "BART Board of Directors District 7 ",
+    "description": "Two inspiring candidates are competing for the seat that includes San Francisco and a slice of the East Bay shoreline. ",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Re-elect-Mallett-for-BART-9972747.php",
+    "rmid": "Zakhary Mallett",
+    "atag": "regional",
+    "rtag": "election",
+    "ctag": "bart board of directors",
+    "tags": "regional,election,bart board of directors"
+  },
+  {
+    "race": "BART Board of Directors District 5",
+    "description": "Challenger Jennifer Hosterman is running to replace incumbent John McPartland. ",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Jennifer-Hosterman-for-BART-9972433.php",
+    "rmid": "Jennifer Hosterman",
+    "atag": "regional",
+    "rtag": "election",
+    "ctag": "bart board of directors",
+    "tags": "regional,election,bart board of directors"
+  },
+  {
+    "race": "BART Board of Directors District 3",
+    "description": "District includes parts of Berkeley, Albany, Oakland, San Leandro, Lafayette, Moraga and Orinda.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Rebecca-Saltzman-for-BART-District-3-9972644.php",
+    "rmid": "Rececca Saltzman",
+    "atag": "regional",
+    "rtag": "election",
+    "ctag": "bart board of directors",
+    "tags": "regional,election,bart board of directors"
+  },
+  {
+    "race": "BART Board of Directors District 1",
+    "description": "This district includes stations in Concord, Lafayette, Pleasant Hill and Walnut Creek.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Debora-Allen-for-BART-9972231.php",
+    "rmid": "Debora Allen",
+    "atag": "regional",
+    "rtag": "election",
+    "ctag": "bart board of directors",
+    "tags": "regional,election,bart board of directors"
+  },
+  {
     "race": "Oakland Measure HH",
     "description": "A penny an ounce tax on sugary drinks.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Big-Soda-s-tax-claim-falls-flat-with-grocers-9957316.php",
@@ -20,7 +75,7 @@
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "infrastructure bond",
-    "tags": "regional,proposition, infrastructure bond",
+    "tags": "regional,proposition,infrastructure bond",
     "icon": "measureKK"
   },
   {
@@ -44,7 +99,7 @@
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "infrastructure bond",
-    "tags": "regional,proposition, infrastructure bond",
+    "tags": "regional,proposition,infrastructure bond",
     "icon": "measureT1"
   },
   {
@@ -67,7 +122,7 @@
     "rmid": "Yes",
     "atag": "regional",
     "rtag": "proposition",
-    "tags": "regional, proposition",
+    "tags": "regional,proposition",
     "icon": "measureX"
   },
   {
@@ -207,7 +262,7 @@
   {
     "race": "S.F. Prop. U",
     "description": "Would change the amount of income that people could have and still qualify for subsidized housing.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Competition-for-affordable-housing-would-rise-9974877.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-S-F-Props-P-U-9517865.php",
     "rmid": "No",
     "atag": "local",
@@ -266,7 +321,7 @@
   {
     "race": "S.F. Prop. P",
     "description": "Would oblige the city to seek three bids when offering city land to affordable housing builders. ",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/SF-s-competing-affordable-housing-measures-9974860.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-S-F-Props-P-U-9517865.php",
     "rmid": "No",
     "atag": "local",
@@ -302,7 +357,7 @@
   {
     "race": "S.F. Prop. M",
     "description": "Would create a new panel to set the city's economic development course.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/SF-s-competing-affordable-housing-measures-9974860.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Vote-No-on-S-F-9200660.php",
     "rmid": "No",
     "atag": "local",
@@ -671,6 +726,17 @@
     "icon": "prop51"
   },
   {
+    "race": "State Assembly District 14 ",
+    "description": "Two Democrats are facing off in the race for this East Bay Assembly race.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Tim-Grayson-for-Assembly-9974818.php",
+    "rmid": "Tim Grayson",
+    "atag": "state",
+    "rtag": "election",
+    "ctag": "assembly",
+    "tags": "state,election,assembly"
+  },
+  {
     "race": "State Assembly District 16 ",
     "description": "The California Democratic Party seems to have concluded that it can’t defeat Assemblywoman Catharine Baker, R-San Ramon, on the merits.",
     "coverageurl": "#",
@@ -720,7 +786,7 @@
     "atag": "federal",
     "rtag": "election",
     "ctag": "Congress",
-    "tags": "state,election,congress"
+    "tags": "federal,election,Congress"
   },
   {
     "race": "U.S. House of Representatives (District 12)",

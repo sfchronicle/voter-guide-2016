@@ -254,11 +254,11 @@ $(function() {
 
 
 $('#federal').click(function(){
-    $('#p62').addClass("filtered");
+    $('#p69').addClass("filtered");
 });
 
 $('#viewall').click(function(){
-    $('#p62').removeClass("filtered");
+    $('#p69').removeClass("filtered");
     $('.contain').css( "display", "block");
     $('#viewall').removeClass('disabled');
 });
