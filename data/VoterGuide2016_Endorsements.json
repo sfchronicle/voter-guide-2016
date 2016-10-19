@@ -55,6 +55,18 @@
     "tags": "regional,election,bart board of directors"
   },
   {
+    "race": "Measure C1",
+    "description": "Extends parcel tax for AC Transit in portions of Alameda and Contra Costa counties.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Measure-C1-9982091.php",
+    "rmid": "Yes",
+    "atag": "regional",
+    "rtag": "proposition",
+    "ctag": "AC Transit",
+    "tags": "regional,proposition,AC Transit",
+    "icon": "measureC1"
+  },
+  {
     "race": "Oakland Measure HH",
     "description": "A penny an ounce tax on sugary drinks.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Big-Soda-s-tax-claim-falls-flat-with-grocers-9957316.php",
@@ -644,7 +656,7 @@
   {
     "race": "Prop. 57",
     "description": "Would encourage nonviolent offenders to use their prison time to improve themselves and also the decision of whether to try a juvenile as an adult in the hands of a judge.",
-    "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-57-partly-rolls-back-fixed-terms-for-9228141.php",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Prop-57-could-shorten-prison-time-for-thousands-9982309.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/The-Chronicle-recommends-Yes-on-Prop-57-9215121.php",
     "rmid": "Yes",
     "atag": "state",
