@@ -103,6 +103,18 @@
     "icon": "measure01"
   },
   {
+    "race": "Berkeley Measure X1",
+    "description": "Sets up public funding for those running for elected office in Berkeley.",
+    "coverageurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Yes-on-Measure-X1-9984435.php",
+    "rmid": "Yes",
+    "atag": "regional",
+    "rtag": "proposition",
+    "ctag": "campaign reform",
+    "tags": "regional, proposition,campaign reform",
+    "icon": "measureX1"
+  },
+  {
     "race": "Berkeley Measure T1",
     "description": "A  $100 million general obligation bond for Berkeley's infrastructure.",
     "coverageurl": "#",
