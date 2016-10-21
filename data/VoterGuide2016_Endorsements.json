@@ -111,7 +111,7 @@
     "atag": "regional",
     "rtag": "proposition",
     "ctag": "campaign reform",
-    "tags": "regional, proposition,campaign reform",
+    "tags": "regional,proposition,campaign reform",
     "icon": "measureX1"
   },
   {
@@ -310,7 +310,7 @@
   {
     "race": "S.F. Prop. S",
     "description": "Allocation of hotel tax.",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/art/article/Prop-S-would-return-hotel-tax-fund-allocations-9982261.php",
     "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-No-on-SF-Prop-S-9967725.php",
     "rmid": "No",
     "atag": "local",
@@ -792,6 +792,17 @@
     "tags": "state,election,state senate"
   },
   {
+    "race": "State Senate District 9",
+    "description": "Democrats Nancy Skinner and Sandré Swanson are vying for this East Bay district seat.",
+    "coverageurl": "http://www.sfchronicle.com/bayarea/article/Race-for-East-Bay-state-Senate-District-9-gets-9947672.php",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Skinner-for-state-Senate-7389155.php",
+    "rmid": "Nancy Skinner",
+    "atag": "state",
+    "rtag": "election",
+    "ctag": "state senate",
+    "tags": "state,election,state senate"
+  },
+  {
     "race": "State Senate District 11",
     "description": "The Senate district, taking in all of the San Francisco and northern San Mateo County, demands a leader who can step in without an extended learning curve.",
     "coverageurl": "http://www.sfchronicle.com/politics/article/State-Senate-race-locked-in-furious-dead-heat-9537498.php",
@@ -805,8 +816,9 @@
   {
     "race": "U.S. House of Representatives (District 17)",
     "description": "Incumbent Mike Honda is being challenged by fellow Democrat Ro Khanna. ",
-    "coverageurl": "#",
+    "coverageurl": "http://www.sfchronicle.com/politics/article/Repeat-Dem-on-Dem-Congress-race-rougher-this-time-9458076.php",
     "endorsementurl": "#",
+    "rmid": "Ro Khanna",
     "atag": "federal",
     "rtag": "election",
     "ctag": "Congress",
@@ -817,6 +829,7 @@
     "description": "Incumbent Nancy Pelosi will face independent candidate Preston Picus.",
     "coverageurl": "#",
     "endorsementurl": "#",
+    "rmid": "Nancy Pelosi",
     "atag": "federal",
     "rtag": "election",
     "ctag": "congress",
