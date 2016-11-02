@@ -814,10 +814,10 @@
     "tags": "state,election,state senate"
   },
   {
-    "race": "U.S. House of Representatives (District 17)",
+    "race": "U.S. House of Representatives District 17",
     "description": "Incumbent Mike Honda is being challenged by fellow Democrat Ro Khanna. ",
     "coverageurl": "http://www.sfchronicle.com/politics/article/Repeat-Dem-on-Dem-Congress-race-rougher-this-time-9458076.php",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Ro-Khanna-for-Congress-10418494.php",
     "rmid": "Ro Khanna",
     "atag": "federal",
     "rtag": "election",
@@ -825,10 +825,10 @@
     "tags": "federal,election,Congress"
   },
   {
-    "race": "U.S. House of Representatives (District 12)",
+    "race": "U.S. House of Representatives District 12",
     "description": "Incumbent Nancy Pelosi will face independent candidate Preston Picus.",
     "coverageurl": "#",
-    "endorsementurl": "#",
+    "endorsementurl": "http://www.sfchronicle.com/opinion/editorials/article/Chronicle-recommends-Re-elect-Rep-Nancy-Pelosi-10423586.php",
     "rmid": "Nancy Pelosi",
     "atag": "federal",
     "rtag": "election",

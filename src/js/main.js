@@ -24,23 +24,12 @@ for (var i = 0; i < buttonData.length; i++) {
 
 // function that adds active class to buttons, updates the array of active ids
 var selected = function() {
-	// use this to refer to the selected button
-
-	// clear.classList.add('enable');
 
 	matches = [];
 
 	var al = active.length;
 
 	if (this.classList.contains('active')) {
-		// this.classList.remove('active');
-
-		// if you unclick, it removes from array
-		// for (var j = 0; j < display.length; j++ ) {
-		// 	if (display[j].substring(0,this.id.length) == this.id) {
-		// 		display.splice(j,1);
-		// 	}
-		// }
 	}
 	else if (this.classList.contains('disabled')) {
 		display = [];
@@ -48,11 +37,9 @@ var selected = function() {
 	} 
 	else {
 		this.classList.add('active');
-		// adds to array on click
 		display.push(this.id);
 	}
 
-	// test for emma
 	if (this.classList.contains('disabled')) {
 		for (var z = 0; z < button.length; z++) {
 			button[z].classList.remove('active');
@@ -250,11 +237,6 @@ $(function() {
             sticky.removeClass('sticky-nav');
         }
     });
-})
-
-
-$('#federal').click(function(){
-    $('#p72').addClass("filtered");
 });
 
 $('#viewall').click(function(){
